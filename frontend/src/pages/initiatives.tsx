@@ -1,25 +1,25 @@
 // @ts-nocheck
 
-import React from "react";
-import { Box, Text, Flex, Image, Spacer } from "@chakra-ui/react";
-import PageTitle from "../components/PageTitle";
-import LeftCard, { assignCards } from "../components/InfoCard";
-import torch from '../public/assets/Initiative_logos/conservatism_logo_2.png'
-import individual from '../public/assets/Initiative_logos/libertarianism_logo.png'
-import triangleCircle from '../public/assets/Initiative_logos/progressivism_logo_2.png'
-import ladyJustice from '../public/assets/Initiative_logos/neutral_logo_2.png'
-import crown from '../public/assets/Initiative_logos/radical_conservatism_logo.png'
-import fist from '../public/assets/Initiative_logos/radical_progressivism_logo.png'
-import pheonix from '../public/assets/Initiative_logos/radical_progressivism_logo_2.png'
-import trident from '../public/assets/Initiative_logos/libertariansim_logo_2_.png'
-import bible from '../public/assets/Initiative_logos/radical_conservatism_logo_3.png'
-import pidgeon from '../public/assets/Initiative_logos/progressivism_logo.png'
-import lion from '../public/assets/Initiative_logos/conservatism_logo.png'
-import owl from '../public/assets/Initiative_logos/neutral_logo.png'
-import { Banner } from "../components/TheHeader";
-import axios from "axios";
-import { useState } from "react";
-import Popups from "../components/Popup";
+import React from "react"
+import { Box, Text, Flex, Image, Spacer } from "@chakra-ui/react"
+import PageTitle from "../components/PageTitle"
+import LeftCard, { assignCards } from "../components/InfoCard"
+import torch from "../public/assets/Initiative_logos/conservatism_logo_2.png"
+import individual from "../public/assets/Initiative_logos/libertarianism_logo.png"
+import triangleCircle from "../public/assets/Initiative_logos/progressivism_logo_2.png"
+import ladyJustice from "../public/assets/Initiative_logos/neutral_logo_2.png"
+import crown from "../public/assets/Initiative_logos/radical_conservatism_logo.png"
+import fist from "../public/assets/Initiative_logos/radical_progressivism_logo.png"
+import pheonix from "../public/assets/Initiative_logos/radical_progressivism_logo_2.png"
+import trident from "../public/assets/Initiative_logos/libertariansim_logo_2_.png"
+import bible from "../public/assets/Initiative_logos/radical_conservatism_logo_3.png"
+import pidgeon from "../public/assets/Initiative_logos/progressivism_logo.png"
+import lion from "../public/assets/Initiative_logos/conservatism_logo.png"
+import owl from "../public/assets/Initiative_logos/neutral_logo.png"
+import { Banner } from "../components/TheHeader"
+import axios from "axios"
+import { useState } from "react"
+import Popups from "../components/Popup"
 
 const INITIATIVE_MAP = {
   1: "Conservatism",
@@ -29,7 +29,7 @@ const INITIATIVE_MAP = {
   5: "Technocratism",
   6: "Socialism",
   7: "Statism",
-  8: "Nationalism"
+  8: "Nationalism",
 }
 
 /**
@@ -44,7 +44,7 @@ const INITIATIVES = [
     
     The first established use of the term in a political context originated in 1818 with François-René de Chateaubriand during the period of Bourbon Restoration that sought to roll back the policies of the French Revolution. Historically associated with right-wing politics, the term has since been used to describe a wide range of views. There is no single set of policies regarded as conservative because the meaning of conservatism depends on what is considered traditional in a given place and time. Conservative thought has varied considerably as it has adapted itself to existing traditions and national cultures. For example, some conservatives advocate for greater government intervention in the economy while others advocate for a more laissez faire free market economic system. Thus conservatives from different parts of the world—each upholding their respective traditions—may disagree on a wide range of issues. Edmund Burke, an 18th-century politician who opposed the French Revolution, but supported the American Revolution, is credited as one of the main theorists of conservatism in the 1790s.
     `,
-    imageUrl: torch
+    imageUrl: torch,
   },
   {
     title: `Libertarianism`,
@@ -144,16 +144,16 @@ const INITIATIVES = [
 
     The term technocracy was originally used to signify the application of the scientific method to solving social problems. Concern could be given to sustainability within the resource base, instead of monetary profitability, so as to ensure continued operation of all social-industrial functions. In its most extreme sense technocracy is an entire government running as a technical or engineering problem and is mostly hypothetical. In more practical use, technocracy is any portion of a bureaucracy that is run by technologists. A government in which elected officials appoint experts and professionals to administer individual government functions and recommend legislation can be considered technocratic. Some uses of the word refer to a form of meritocracy, where the ablest are in charge, ostensibly without the influence of special interest groups. Critics have suggested that a "technocratic divide" challenges more participatory models of democracy, describing these divides as "efficacy gaps that persist between governing bodies employing technocratic principles and members of the general public aiming to contribute to government decision making".`,
     imageUrl: owl,
-  }
-];
+  },
+]
 
 const InitiativesPage = () => {
-  const [end, setEnd] = useState("");
-  const [initiatives, setInitiatives] = useState<Array<number>>();
-  const [isEnd, SetIsEnd] = useState(false);
-  const [errorMsg, setErrorMsg] = useState('');
+  const [end, setEnd] = useState("")
+  const [initiatives, setInitiatives] = useState<Array<number>>()
+  const [isEnd, SetIsEnd] = useState(false)
+  const [errorMsg, setErrorMsg] = useState("")
   React.useEffect(() => {
-    getEndDate();
+    getEndDate()
     getInitiatives()
   }, [])
   interface initiativeAPI {
@@ -165,76 +165,77 @@ const InitiativesPage = () => {
   const getInitiatives = async () => {
     const initiativeUrl = "http://localhost:8000/api/v1/initiative/"
     try {
-      axios
-        .get(initiativeUrl)
-        .then(res => {
-          console.log(res.data)
-          let initiativeArr = res.data.map((i: any) =>
-            i['initiative_type']
-          )
-          setInitiatives(initiativeArr)
-        })
+      axios.get(initiativeUrl).then((res) => {
+        console.log(res.data)
+        let initiativeArr = res.data.map((i: any) => i["initiative_type"])
+        setInitiatives(initiativeArr)
+      })
     } catch (error) {
-      setErrorMsg('An error has occured, please try again.')
+      setErrorMsg("An error has occured, please try again.")
     }
   }
   const mapper = () => {
     let cardArr = []
     for (let initiative in initiatives) {
       let mapId = INITIATIVE_MAP[initiative]
-      let res = INITIATIVES.filter(k => k.title == mapId)[0]
+      let res = INITIATIVES.filter((k) => k.title == mapId)[0]
       cardArr.push(res)
     }
     return cardArr
   }
 
   async function getEndDate() {
-    
     const voteUrl = "http://localhost:8000/api/v1/election/"
     try {
       let request = await axios.get(voteUrl)
-      if (request.data.length > 0 && request.data[0]['is_active']) {
-        var date = new Date(request.data[0]['election_end']);
+      if (request.data.length > 0 && request.data[0]["is_active"]) {
+        var date = new Date(request.data[0]["election_end"])
         const options = {
           day: "numeric",
           month: "long",
           year: "numeric",
           hour: "numeric",
           minute: "numeric",
-          timeZoneName: 'short',
-        };
-        SetIsEnd(true);
-        setEnd(date.toLocaleDateString('en-AU', options));
+          timeZoneName: "short",
+        }
+        SetIsEnd(true)
+        setEnd(date.toLocaleDateString("en-AU", options))
       } else {
-        SetIsEnd(false);
+        SetIsEnd(false)
       }
     } catch (error) {
-      setErrorMsg('An error has occured, please try again.')
+      setErrorMsg("An error has occured, please try again.")
     }
   }
 
   return (
     <>
-      {Banner({ title: "Initiatives", subtitle: end, quote: "Create with the heart; build with the mind", author: "Criss Jami" })}
-      <Box h='2rem' gridColumn='4/12' />
+      {Banner({
+        title: "Initiatives",
+        subtitle: end,
+        quote: "Create with the heart; build with the mind",
+        author: "Criss Jami",
+      })}
+      <Box h="2rem" gridColumn="4/12" />
       {isEnd && (
         <PageTitle
-          title='Iniatiatives'
+          title="Iniatiatives"
           subtitle={`Current Voting stage ends: ${end}`}
         />
       )}
       {!isEnd && (
         <PageTitle
-          title='Iniatiatives'
+          title="Iniatiatives"
           subtitle={`There is no active vote right now.`}
         />
       )}
-      
-      <Box h='4rem' gridColumn='4/12' />
+
+      <Box h="4rem" gridColumn="4/12" />
       {assignCards(INITIATIVES)}
 
-      <Popups type="error" message={errorMsg}/>
-    </>)
-};
+      <Popups type="error" message={errorMsg} />
+    </>
+  )
+}
 
-export default InitiativesPage;
+export default InitiativesPage

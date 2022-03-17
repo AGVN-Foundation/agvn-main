@@ -10,6 +10,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import '@fortawesome/fontawesome-free/css/all.min.css'
 import 'bootstrap-css-only/css/bootstrap.min.css'
 import 'mdbreact/dist/css/mdb.css'
+import { SSRProvider } from 'react-bootstrap'
 
 const colors = {
     text: '#999999',
@@ -24,20 +25,22 @@ const theme = extendTheme({ colors })
 function MyApp({ Component, pageProps }: AppProps) {
 
     return (
-        <motion.div initial="pageInitial" animate="pageAnimate" variants={{
-            pageInitial: {
-                opacity: 0
-            },
-            pageAnimate: {
-                opacity: 1
-            }
-        }}>
-            <ChakraProvider theme={theme}>
-                <Layout>
-                    <Component {...pageProps} />
-                </Layout>
-            </ChakraProvider>
-        </motion.div>
+        <SSRProvider>
+            <motion.div initial="pageInitial" animate="pageAnimate" variants={{
+                pageInitial: {
+                    opacity: 0
+                },
+                pageAnimate: {
+                    opacity: 1
+                }
+            }}>
+                <ChakraProvider theme={theme}>
+                    <Layout>
+                        <Component {...pageProps} />
+                    </Layout>
+                </ChakraProvider>
+            </motion.div>
+        </SSRProvider>
     )
 }
 export default MyApp

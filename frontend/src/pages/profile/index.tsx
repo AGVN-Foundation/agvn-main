@@ -1,42 +1,44 @@
 // @ts-nocheck
 
-import React from 'react';
-import { useRouter } from 'next/router';
-import Cookies from 'universal-cookie';
-import ContributeChart from '../../components/ContributeChart';
-import { Box, Text, Flex, Heading, Divider, Grid } from "@chakra-ui/react";
-import PageTitle from "../../components/PageTitle";
-import Popups from '../../components/Popup';
-import { Container, Row, Col } from 'react-bootstrap';
-import { Button } from '@chakra-ui/button';
-import { Spacer } from '@chakra-ui/layout';
-import { Checkbox } from '@chakra-ui/checkbox';
-import { MDBCol, MDBContainer, MDBRow } from 'mdbreact';
+import React from "react"
+import { useRouter } from "next/router"
+import Cookies from "universal-cookie"
+import ContributeChart from "../../components/ContributeChart"
+import { Box, Text, Flex, Heading, Divider, Grid } from "@chakra-ui/react"
+import PageTitle from "../../components/PageTitle"
+import Popups from "../../components/Popup"
+import { Container, Row, Col } from "react-bootstrap"
+import { Button } from "@chakra-ui/button"
+import { Spacer } from "@chakra-ui/layout"
+import { Checkbox } from "@chakra-ui/checkbox"
+import { MDBCol, MDBContainer, MDBRow } from "mdbreact"
 
-const host = 'http://127.0.0.1:8000/api/v1';
+const host = "http://127.0.0.1:8000/api/v1"
 
 const policyTypeValueSample = [
   {
-    policyType: 'Taxation',
-    favorability: 'High'
+    policyType: "Taxation",
+    favorability: "High",
   },
   {
-    policyType: 'Health',
-    favorability: 'Neutral'
-  }
+    policyType: "Health",
+    favorability: "Neutral",
+  },
 ]
 
 const PoliticalInterests = (policyTypesValues: any) => {
   return (
     <Container>
       <Row>
-        <Col style={{ fontWeight: 'bold' }}>Policy Types</Col>
-        <Col style={{ fontWeight: 'bold' }}>Favorableness</Col>
+        <Col style={{ fontWeight: "bold" }}>Policy Types</Col>
+        <Col style={{ fontWeight: "bold" }}>Favorableness</Col>
       </Row>
       {policyTypeValueSample.map((p) => (
         <Row>
           <Col>{p.policyType}</Col>
-          <Col color={p.favorability == 'High' ? "#82b884" : "#82b5b8"}>{p.favorability}</Col>
+          <Col color={p.favorability == "High" ? "#82b884" : "#82b5b8"}>
+            {p.favorability}
+          </Col>
         </Row>
       ))}
     </Container>
@@ -44,120 +46,120 @@ const PoliticalInterests = (policyTypesValues: any) => {
 }
 
 function Profile() {
-  const [email, setEmail] = React.useState('');
-  const [name, setName] = React.useState('');
-  const [sex, setSex] = React.useState('');
-  const [age, setAge] = React.useState('');
-  const [driverLicense, setDriverLicense] = React.useState('');
-  const [medicare, setMedicare] = React.useState('');
-  const [irn, setIrn] = React.useState('');
-  const [family, setFamily] = React.useState('');
-  const [education, setEducation] = React.useState('');
-  const [residence, setResidence] = React.useState('');
-  const [country, setCountry] = React.useState('');
-  const [occupation, setOccupation] = React.useState('');
-  const [oRank, setORank] = React.useState('');
-  const [income, setIncome] = React.useState('');
-  const [isGov, setIsGov] = React.useState(false);
-  const [interests, setInterests] = React.useState('')
-  const [skills, setSkills] = React.useState('')
+  const [email, setEmail] = React.useState("")
+  const [name, setName] = React.useState("")
+  const [sex, setSex] = React.useState("")
+  const [age, setAge] = React.useState("")
+  const [driverLicense, setDriverLicense] = React.useState("")
+  const [medicare, setMedicare] = React.useState("")
+  const [irn, setIrn] = React.useState("")
+  const [family, setFamily] = React.useState("")
+  const [education, setEducation] = React.useState("")
+  const [residence, setResidence] = React.useState("")
+  const [country, setCountry] = React.useState("")
+  const [occupation, setOccupation] = React.useState("")
+  const [oRank, setORank] = React.useState("")
+  const [income, setIncome] = React.useState("")
+  const [isGov, setIsGov] = React.useState(false)
+  const [interests, setInterests] = React.useState("")
+  const [skills, setSkills] = React.useState("")
   const [contributions, setContributions] = React.useState([])
-  const [political, setPolitical] = React.useState('')
-  const [errorMsg, setErrorMsg] = React.useState('');
-  const [loaded, setLoaded] = React.useState(false);
-  const [toSignin, setToSignin] = React.useState(false);
-  const [wWidth, setWWidth] = React.useState(0);
-  const [contribWidth, setContribWidth] = React.useState(0);
-  const cookies = new Cookies();
+  const [political, setPolitical] = React.useState("")
+  const [errorMsg, setErrorMsg] = React.useState("")
+  const [loaded, setLoaded] = React.useState(false)
+  const [toSignin, setToSignin] = React.useState(false)
+  const [wWidth, setWWidth] = React.useState(0)
+  const [contribWidth, setContribWidth] = React.useState(0)
+  const cookies = new Cookies()
   const router = useRouter()
 
   async function getProfile() {
     try {
       const req = {
-        method: 'GET',
+        method: "GET",
         headers: {
-          Accept: 'application/json',
-          Authorization: cookies.get('token'),
-        }
-      };
-      const response = await fetch(`${host}/profile`, req);
+          Accept: "application/json",
+          Authorization: cookies.get("token"),
+        },
+      }
+      const response = await fetch(`${host}/profile`, req)
       if (response.status === 401) {
-        setErrorMsg('Invalid Token, please sign in again.');
-        setToSignin(true);
+        setErrorMsg("Invalid Token, please sign in again.")
+        setToSignin(true)
       } else if (response.status === 500) {
         setErrorMsg("Please try again later.")
       } else {
-        const data = await response.json();
-        setEmail(data.email);
-        setName(data.name);
-        getSex(data.sex);
-        setAge(data.age);
-        setDriverLicense(data.driver_license);
-        setMedicare(data.medicare.card_number);
-        setIrn(data.medicare.IRN);
-        setFamily(data.family);
-        setEducation(data.education);
-        setResidence(data.residence);
-        setCountry(data.country);
-        setOccupation(data.current_occupation);
-        setORank(data.occupation_rank);
-        setIncome(data.income);
-        setIsGov(data.government_employee);
-        getInterests(data.interests);
-        getSkills(data.skills);
-        setContributions(data.contribution);
-        setErrorMsg('');
-        setToSignin(false);
+        const data = await response.json()
+        setEmail(data.email)
+        setName(data.name)
+        getSex(data.sex)
+        setAge(data.age)
+        setDriverLicense(data.driver_license)
+        setMedicare(data.medicare.card_number)
+        setIrn(data.medicare.IRN)
+        setFamily(data.family)
+        setEducation(data.education)
+        setResidence(data.residence)
+        setCountry(data.country)
+        setOccupation(data.current_occupation)
+        setORank(data.occupation_rank)
+        setIncome(data.income)
+        setIsGov(data.government_employee)
+        getInterests(data.interests)
+        getSkills(data.skills)
+        setContributions(data.contribution)
+        setErrorMsg("")
+        setToSignin(false)
       }
     } catch (error) {
-      setErrorMsg('Please try again.');
-      setToSignin(true);
-      console.log(errorMsg);
+      setErrorMsg("Please try again.")
+      setToSignin(true)
+      console.log(errorMsg)
     }
   }
 
   function getSex(gender: number) {
     if (gender === 1) {
-      setSex('Male');
+      setSex("Male")
     } else if (gender === 2) {
-      setSex('Female');
+      setSex("Female")
     } else {
-      setSex('Indeterminte/Intersex/Unspecific');
+      setSex("Indeterminte/Intersex/Unspecific")
     }
   }
 
   function getInterests(arr: [string]) {
-    var newString = arr.join(", ");
-    setInterests(newString);
+    var newString = arr.join(", ")
+    setInterests(newString)
   }
 
   function getSkills(arr: [string]) {
-    var newString = arr.join(", ");
-    setSkills(newString);
+    var newString = arr.join(", ")
+    setSkills(newString)
   }
 
   function toEditProfile(e: any) {
-    e.preventDefault();
-    router.push('/profile/edit');
+    e.preventDefault()
+    router.push("/profile/edit")
   }
 
   function getPolitical(arr: any) {
-    var newString = arr.join(", ");
-    setPolitical(newString);
+    var newString = arr.join(", ")
+    setPolitical(newString)
   }
 
   React.useEffect(() => {
-    if (cookies.get('token') === undefined) {
-      router.push('/signin');
+    if (cookies.get("token") === undefined) {
+      router.push("/signin")
     } else if (loaded === false) {
-      getProfile();
-      setLoaded(true);
+      getProfile()
+      setLoaded(true)
     }
   })
 
   React.useEffect(() => {
-    window.addEventListener('resize', () => setWWidth(window.innerWidth))
-    setContribWidth(document.getElementById('contrib-box')?.offsetWidth - 100);
+    window.addEventListener("resize", () => setWWidth(window.innerWidth))
+    setContribWidth(document.getElementById("contrib-box")?.offsetWidth - 100)
   }, [wWidth])
 
   function Feature({ title, desc, ...rest }: FeatureProps) {
@@ -173,8 +175,8 @@ function Profile() {
   }
 
   interface FeatureProps {
-    title: string;
-    desc: string;
+    title: string
+    desc: string
   }
 
   // return (
@@ -313,9 +315,7 @@ function Profile() {
   //   </Flex>
   // );
 
-  return (
-    <></>
-  )
+  return <></>
 }
 
-export default Profile;
+export default Profile
