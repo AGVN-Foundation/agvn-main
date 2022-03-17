@@ -1,0 +1,12 @@
+.vscode
+venv
+__pycache__
+*.pytest_cache
+.hypothesis
+data_scraped
+Pipfile.save
+webserver/api/migrations/
+Pipfile
+Pipfile.lock
+migrations
+/archive

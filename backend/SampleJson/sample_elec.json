@@ -1,0 +1,112 @@
+[
+  {
+    "electroate_id": 0,
+    "postcodes": [
+      "2906",
+      "2666",
+      "2932",
+      "2663",
+      "0905"
+    ],
+    "council_members": 10
+  },
+  {
+    "electroate_id": 1,
+    "postcodes": [
+      "2869",
+      "2634",
+      "1555",
+      "9061",
+      "8294"
+    ],
+    "council_members": 2
+  },
+  {
+    "electroate_id": 2,
+    "postcodes": [
+      "9690",
+      "2623",
+      "0248",
+      "2069",
+      "0808"
+    ],
+    "council_members": 9
+  },
+  {
+    "electroate_id": 3,
+    "postcodes": [
+      "2159",
+      "2991",
+      "2634",
+      "2918",
+      "9130"
+    ],
+    "council_members": 6
+  },
+  {
+    "electroate_id": 4,
+    "postcodes": [
+      "2336",
+      "2109",
+      "2666",
+      "2673",
+      "2662"
+    ],
+    "council_members": 3
+  },
+  {
+    "electroate_id": 5,
+    "postcodes": [
+      "0977",
+      "2639",
+      "2543",
+      "2281",
+      "2914"
+    ],
+    "council_members": 5
+  },
+  {
+    "electroate_id": 6,
+    "postcodes": [
+      "1407",
+      "4576",
+      "2683",
+      "3326",
+      "2507"
+    ],
+    "council_members": 8
+  },
+  {
+    "electroate_id": 7,
+    "postcodes": [
+      "2635",
+      "2206",
+      "8266",
+      "0272",
+      "2307"
+    ],
+    "council_members": 7
+  },
+  {
+    "electroate_id": 8,
+    "postcodes": [
+      "2663",
+      "2992",
+      "0990",
+      "2942",
+      "8059"
+    ],
+    "council_members": 1
+  },
+  {
+    "electroate_id": 9,
+    "postcodes": [
+      "0948",
+      "2957",
+      "2962",
+      "2920",
+      "2768"
+    ],
+    "council_members": 9
+  }
+]

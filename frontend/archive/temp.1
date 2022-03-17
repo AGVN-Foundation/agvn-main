@@ -1,0 +1,72 @@
+
+/* <motion.div animate={{ scale: 0.5 }} transition={{ duration: 5 }}>
+                <Flex className="wrapper" height="30rem" justifyContent="center" alignItems="center">
+                    <Divider className="divider" width="10rem" />
+                </Flex>
+            </motion.div> */
+
+function SuperCard2() {
+    return (
+        <AnimatePresence exitBeforeEnter initial={false}>
+            <Flex minHeight="30rem">
+                <motion.div
+                    animate={{
+                        scale: [1, 2, 2, 1, 1],
+                        rotate: [0, 0, 270, 270, 0],
+                        borderRadius: ["20%", "20%", "50%", "50%", "20%"],
+                    }}
+                />
+            </Flex>
+        </AnimatePresence>
+    )
+}
+
+=======
+              <Container style={{ paddingBottom: 0 }}>
+                <Navbar.Brand style={{ paddingBottom: 0 }} onClick={toHome}>
+                  <img
+                    src={logo}
+                    width='137.48'
+                    height='280'
+                    className="d-inline-block align-top"
+                    alt="AGVN Logo"
+                    style={{ cursor: 'pointer' }}
+                  />
+                </Navbar.Brand>
+                <Nav
+                  style={{ fontSize: 12, paddingBottom: 0 }}
+                >
+                  <Nav.Link onClick={toAbout}>About</Nav.Link>
+                  <Nav.Link>More information</Nav.Link>
+                  <Nav.Link>Policies</Nav.Link>
+                </Nav>
+              </Container>
+            </Navbar>
+            <Navbar bg='dark' variant='dark' expand='lg'>
+              <Container style={{ height: 14, paddingTop: 0 }}>
+>>>>>>> main
+
+<Navbar bg='dark' variant='dark' expand='lg'>
+        <Container>
+          <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+          <Navbar.Collapse id='responsive-navbar-nav'>
+            <Nav className="me-auto" style={{ backgroundColor: '#656665' }}>
+              <Box paddingRight="20" paddingLeft="20"><Nav.Link onClick={toHome}>Home</Nav.Link></Box>
+              <Box paddingRight="20"><Nav.Link onClick={toVote}>Vote</Nav.Link></Box>
+              <Box paddingRight="20"><Nav.Link onClick={toPoll}>Poll</Nav.Link></Box>
+              <Box paddingRight="20"><Nav.Link onClick={toContribute}>Contribution</Nav.Link></Box>
+              <Box paddingRight="20"><NavDropdown title="More" id="collasible-nav-dropdown">
+                <NavDropdown.Item onClick={toDepartments}>Departments</NavDropdown.Item>
+                <NavDropdown.Item onClick={toInitiative}>Initiatives</NavDropdown.Item>
+                <NavDropdown.Item onClick={toResults}>Results</NavDropdown.Item>
+              </NavDropdown></Box>
+            </Nav>
+            <Nav>
+              <Nav.Link onClick={toHome} style={{ fontSize: 12 }}>Auto Governing System | Australia</Nav.Link>
+            </Nav>
+            <Nav>
+              <Nav.Link><img src={aeros} width='80' height='40' /></Nav.Link>
+            </Nav>
+          </Navbar.Collapse>
+        </Container>
+      </Navbar>

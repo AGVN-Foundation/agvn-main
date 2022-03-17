@@ -1,0 +1,325 @@
+<!DOCTYPE html><html lang="en"><head><title>Dianne Jolley: Professor’s big admission caught on phone tap, court told</title><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="viewport" content="width=device-width"><meta name="generator" content="tcog"><meta itemprop="identifier" name="articleid" content="36a99d1dcf44719a4a90c65a9bb804da"><meta property="article:published_time" itemprop="datePublished" content="2021-07-14T06:25:00.000Z"><meta property="article:modified_time" itemprop="dateModified" content="2021-07-14T06:46:19.000Z"><link rel="canonical" href="https://www.news.com.au/national/nsw-act/crime/sydney-academic-dianne-jolleys-big-admission-caught-on-police-phone-tap-court-told/news-story/36a99d1dcf44719a4a90c65a9bb804da"><link rel="shortcut icon" type="image/x-icon" href="https://www.news.com.au/wp-content/themes/newscorpau-nca/assets/dist/img/common/favicon/favicon.ico"><link rel="icon" type="image/png" href="https://www.news.com.au/wp-content/themes/newscorpau-nca/assets/dist/img/common/favicon/favicon-16x16.png" sizes="16x16"><link rel="icon" type="image/png" href="https://www.news.com.au/wp-content/themes/newscorpau-nca/assets/dist/img/common/favicon/favicon-32x32.png" sizes="32x32"><link rel="mask-icon" href="https://www.news.com.au/wp-content/themes/newscorpau-nca/assets/dist/img/common/favicon/safari-pinned-tab.svg" color="#5bbad5"><link rel="preload" href="https://www.news.com.au/wp-content/themes/newscorpau-nca/assets/dist/fonts/eva-bold/Eva-Bold.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="https://www.news.com.au/wp-content/themes/newscorpau-nca/assets/dist/fonts/liberationserif/liberationserif-regular.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="https://www.news.com.au/wp-content/themes/newscorpau-nca/assets/dist/fonts/liberationserif/liberationserif-italic.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="https://www.news.com.au/wp-content/themes/newscorpau-nca/assets/dist/fonts/liberationserif/liberationserif-bold.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="https://www.news.com.au/wp-content/themes/newscorpau-nca/assets/dist/fonts/liberationserif/liberationserif-bolditalic.woff2" as="font" type="font/woff2" crossorigin><link rel="dns-prefetch" href="https://tags.tiqcdn.com/"><link rel="dns-prefetch" href="https://tags.news.com.au/"><link rel="preconnect" href="https://resourcesssl.newscdn.com.au/" crossorigin><link rel="dns-prefetch" href="https://resourcesssl.newscdn.com.au/"><link rel="dns-prefetch" href="https://cdn.newsapi.com.au/"><link rel="dns-prefetch" href="https://cdn.taboola.com/"><meta name="description" content="A Sydney professor accused of sending herself pairs of her own underwear amid a stream of fake threatening letters was caught on a police intercept admitting to penning two pieces of hate mail, a court has been told."><meta name="keywords" content="Centre District Court,hate mail campaign,police phone tap,New South Wales,phone taps,conveying information,crown case,fake hate mail,police intercept,Leah Rowan,Downing Centre,misconduct charge,Australia and New Zealand,James Gourley,Steve Zemek,stole pairs,Downing Centre District,bizarre intimidation campaign,Australia,newswire-court,bizarre fake hate,Sydney,Phone tapes,hate mail,person fear,Dianne Jolley,sciences fights allegations,Roger Kimball,police phone,Oceania,threatening letters,traditional Chinese"><meta property="og:image" content="https://cdn.newsapi.com.au/image/v1/e653476bfd1f0a7a0cd8b109a93cb95e?width=1280"><meta property="og:title" content="Professor’s big admission caught on tape"><meta property="og:type" content="article"><meta property="og:url" content="https://www.news.com.au/national/nsw-act/crime/sydney-academic-dianne-jolleys-big-admission-caught-on-police-phone-tap-court-told/news-story/36a99d1dcf44719a4a90c65a9bb804da"><meta property="og:site_name" content="NewsComAu"><meta property="og:description" content="A Sydney professor accused of sending herself pairs of her own underwear amid a stream of fake threatening letters was caught on a police intercept admitting to penning two pieces of hate mail, a court has been told."><meta property="fb:app_id" content="113758722003364"><meta property="fb:admins" content="1533025129,653135158,737988273"><meta name="article:publisher" content="News Limited"><meta name="article:author" content="Steve Zemek"><meta name="article:publicationdate" content="14/07/2021"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@newscomauHQ"><meta name="twitter:title" content="Professor’s big admission caught on tape"><link rel="publisher" href="https://plus.google.com/+newscomauHQ"><meta name="robots" content="noarchive"><link rel="apple-touch-icon" sizes="180x180" href="https://www.news.com.au/wp-content/themes/newscorpau-nca/assets/dist/img/common/favicon/apple-touch-icon-180x180.png"><meta name="apple-mobile-web-app-title" content="news.com.au"><meta name="msapplication-TileColor" content="#ffffff"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileImage" content="https://www.news.com.au/wp-content/themes/newscorpau-nca/assets/dist/img/common/favicon/mstile-144x144.png"><meta name="msapplication-config" content="https://www.news.com.au/wp-content/themes/newscorpau-nca/assets/dist/img/common/favicon/browserconfig.xml"><meta name="application-name" content="news.com.au"><meta name="referrer" content="origin"><link rel="amphtml" href="https://amp.news.com.au/national/nsw-act/crime/sydney-academic-dianne-jolleys-big-admission-caught-on-police-phone-tap-court-told/news-story/36a99d1dcf44719a4a90c65a9bb804da"><meta name="google-site-verification" content="GWTbDFKaKnGKyk3q0Na5jIbWHZ4qXn-ibcfMayjSQA0"><script type="application/ld+json">{
+	"@context": "http://schema.org",
+	"@type": "NewsArticle",
+	"headline": "Sydney academic Dianne Jolley’s big admission caught on police phone tap, court told",
+	"articleBody": "The NSW District Court trial of Dianne Jolley is nearing its end as the former University of Technology Sydney dean of sciences fights allegations that she was responsible for a bizarre intimidation campaign directed at herself.Ms Jolley has been found not guilty of nine charges but is still facing another 11 counts, including fraud and conveying information likely to make a person fear for their safety.She has pleaded not guilty, and her barrister Leah Rowan on Wednesday attacked her alleged motive as “nonsense” and claimed that Ms Jolley was the “victim” in the ordeal.Crown prosecutor Roger Kimball used his closing address to highlight several key pieces of evidence, including CCTV and phone taps, which he said supported the argument that Ms Jolley was responsible for authoring 10 threatening letters and cards sent between July and November 2019.In her testimony, Ms Jolley admitted to writing one of the letters, explaining at the time that she found the stress of the real intimidation campaign against her too great and she wanted to be fired from her job.In text messages sent to a colleague on November 18, five days after her arrest, she admitted: “I know I have cracked under the pressure. “As a result I’ve done a couple of things to piggyback on events ... things I’m not proud of. “Obviously recently sabotaging myself. I guess as a subconscious need to make it stop. “Ironic because I love the job, but the weight was too heavy for too long. I’m so sorry couldn’t take it, but now I’m the only suspect.”The jury was also played a police phone tap in which Ms Jolley was overheard telling her personal assistant that she had admitted to sending two letters.“What’s happened in the stream of things, as things have gone on, I’ve found it really hard,” Ms Jolley is heard saying.“The various things have happened, the pressures that have happened and the threats that have happened. I found it very hard.”She goes on to say that after initially receiving support following the first flurry of hate mail, that soon “disappeared.”“I made some bad judgment calls and two of the letters that were sent were sent by me because I wanted some more support,” she said.“I should have gone to a psychologist and now they’re accusing me of everything.”She testified that at the time the university was planning to close its traditional Chinese medicine course, and as the face of the proposed change, she was experiencing angry resistance from members of the community.This included receiving a letter – prior to the first one for which she was charged – that threatened to send her picture to the “Chinese mafia”.When the threatening letters began trickling in on July 31, 2019, the university went to great lengths to put security measures around Ms Jolley, spending more than $127,000 on installing CCTV cameras at her home and office and providing her with a personal bodyguard.She argued that the stress became too great when someone broke into her backyard, sliced up pieces of her clothing and stole pairs of her underwear, which were later sent to her alongside a threatening letter.She said after reviewing her contract, she resolved the only way to get out of her $320,000-a-year role immediately was to incur a misconduct charge. She decided the best way to do that was to be caught red-handed penning a fake threatening letter, the jury was told.She admitted to typing up one of the letters and printing it off inside her office at UTS’s Ultimo campus but said she was otherwise innocent of sending any of the notes.But Mr Kimball said Ms Jolley’s fingerprints were found on the back of a stamp that was used to send one of the letters, arguing she was responsible for all of them.Ms Rowan attacked the crown case and her supposed motive.She said Ms Jolley did not need to muster sympathy or support to push through the closure of the traditional Chinese medicine course, considering the decision had already been made by others.“The accused doesn’t have a reason to send a threatening letter to herself,” Ms Rowan said.“I don’t know if the crown proposition is that Professor Jolley is some sort of drama queen despite the fact she has never shown any sort of behaviour which would be consistent with it. “I don’t know if he’s suggesting she’s some sort of Machiavellian creature using counterintuitive behaviour to try and get through (the closure of) a course that is already going through.”Ms Rowan also criticised the police investigation, saying several key witnesses, including potential suspects, weren’t interviewed or called to give evidence.She also said the jury should reject suggestions that Ms Jolley would send herself her own underwear given she knew other people would view the clothing items, describing it as “humiliating”.“At her level, at her age, why on earth would she commit these sorts of offences? No reason at all,” Ms Rowan said.“Where is the evidence that she lied to you about anything? Where is the evidence she lied to anyone about anything?“She was the victim in this case. That’s a word that hasn’t been used. She was the victim.”The trial will continue on Friday with Judge Ian Bourke’s directions to the jury, which is expected to retire to consider its verdict early next week.",
+	"datePublished": "2021-07-14T06:25:00.000Z",
+	"dateModified": "2021-07-14T06:46:19.000Z",
+	"description": "Sydney academic Dianne Jolley’s big admission caught on police phone tap, court told",
+	"isAccessibleForFree": "True",
+	"mainEntityOfPage": {
+		"@type": "WebPage",
+		"@id": "https://www.news.com.au/national/nsw-act/crime/sydney-academic-dianne-jolleys-big-admission-caught-on-police-phone-tap-court-told/news-story/36a99d1dcf44719a4a90c65a9bb804da"
+	},
+	"author": {
+		"@type": "Person",
+		"name": "Steve Zemek"
+	},
+	"publisher": {
+		"@type": "Organization",
+		"name": "NCA NewsWire",
+		"logo": {
+			"@type": "ImageObject",
+			"url": "https://www.news.com.au/wp-content/themes/newscorpau-nca/assets/dist/img/common/logos/newslogo-600x60-v2.png",
+			"width": 600,
+			"height": 60
+		}
+	},
+	"image": {
+		"@type": "ImageObject",
+		"url": "https://cdn.newsapi.com.au/image/v1/e653476bfd1f0a7a0cd8b109a93cb95e?width=1280",
+		"height": 366,
+		"width": 650
+	}
+}
+</script><script type="application/ld+json">{
+	"@context": "http://schema.org",
+	"@type": "BreadcrumbList",
+	"itemListElement": [{"@type":"ListItem","position":1,"item":{"@id":"https://www.news.com.au","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https://www.news.com.au/national","name":"national"}},{"@type":"ListItem","position":3,"item":{"@id":"https://www.news.com.au/national/nsw-act","name":"nsw & act"}},{"@type":"ListItem","position":4,"item":{"@id":"https://www.news.com.au/national/nsw-act/crime","name":"crime"}},{"@type":"ListItem","position":5,"item":{"@id":"https://www.news.com.au/national/nsw-act/crime/sydney-academic-dianne-jolleys-big-admission-caught-on-police-phone-tap-court-told/news-story/36a99d1dcf44719a4a90c65a9bb804da","name":"Sydney academic Dianne Jolley’s big admission caught on police phone tap, court told"}}]
+}
+</script><link rel="stylesheet" href="https://resourcesssl.newscdn.com.au/cs/ncatemp/2.0.0/assets/css/newscomau/view/desktop.min.css"><link rel="stylesheet" href="https://resourcesssl.newscdn.com.au/cs/video/vjs/stable/build/player.css"><script>window.ndm      = window.ndm        || {};
+window.ndm.page = window.ndm.page   || {};
+utag_data       = window.utag_data  || {};
+var overrideNdmPageSite = "NEWS";
+ndm.page.section = "NATIONAL.NSWACT.CRIME";
+ndm.page.site = overrideNdmPageSite || "NEWS";
+ndm.page.us = "ndmnews";
+ndm.page.runads = true;
+ndm.page.adstyles = "auto";
+ndm.page.type = "story";
+ndm.page.storyid = "36a99d1dcf44719a4a90c65a9bb804da";
+ndm.page.premiumstate = "NON_PREMIUM";
+ndm.page.custom = "";
+utag_data.ad_pagetype = "story";
+utag_data.adsense_client = "ca-nd-news_js";
+utag_data.adsense_client_intl = "ca-nd-news-st-intl_js";
+utag_data.adsense_channel = "national";
+var nca = nca || {};
+nca.site = 'newscomau';
+nca.environment = 'a.tcog.news.com.au';
+nca.envkey = 'prod';
+nca.vertical = 'national';
+nca.subsection = 'nsw-act';
+nca.subsubsection = 'crime';
+nca.commentsAllow = false;
+nca.commentsShow = false;
+nca.commentwatermark = '1481245307';
+nca.timestampunix = '1626245160';
+nca.device = 'desktop';
+nca.membertype = "anonymous";
+
+</script><script>utag_data.pc_memtype = 'anonymous';
+nca.membertype = 'anonymous';
+document.documentElement.className += ' member-anonymous';
+</script><script>window.ads_extra = window.ads_extra || {};
+window.ads_extra.siteversion = "tealium";
+</script><!-- top/all.esi prod 2020-09-23T01:46:46.630Z e2fd69d11987add3b48ba9e102d83569a487ee36 --> <!--    url empty ?: 0   --> <!--    ID:  36a99d1dcf44719a4a90c65a9bb804da --> <!--    ID_Type:  CAPIID --> <!--    Is mobile: false -->
+        
+     
+        
+    
+        
+        
+                
+                
+                
+            
+    
+<script type="text/javascript">
+    window.utag_data = window.utag_data || {};
+    window.utag_data.newskey = "7cfcf84757cc7deea2130ce2ce7df883";
+    (function(){
+        var qs = location.search;
+        var pn = location.pathname;
+        qs=qs.replace(/\?nk=[^&]*&/,'?');
+        qs=qs.replace(/&nk=[^&]*&/g,'&');
+        qs=qs.replace(/&nk=.*$/,'');
+        qs=qs.replace(/\?nk=.*$/,'');
+        if (qs != location.search || pn != location.pathname) {
+            // Modern browsers, don't refresh, just get rid of the affecting parameters
+            if (window.history && history.replaceState) {
+                history.replaceState({}, '', location.href.replace(location.pathname, pn).replace(location.search, qs));
+            }
+        }
+    })();
+</script><script type="text/javascript">
+    window.utag_data = window.utag_data || {};
+    window.utag_data.backend_mobile_detect = false;
+    window.utag_data.backend_geo_country = "au";
+    window.utag_data.backend_geo_region = "nsw";
+    window.utag_data.backend_geo_city = "sydney";
+    window.utag_data.backend_geo_lat = "-33.88";
+    window.utag_data.backend_geo_long = "151.22";
+    window.utag_data.backend_geo_tmz = "gmt+10";
+    window.utag_data.backend_geo_network = "unknown";
+    window.utag_data.gdpr_user = false;
+</script><script>bruce_rtget={"sno":1,"snol":"d,e,g","tmstamp":"2021-07-14T11:22:39.223Z"};</script><script type="text/javascript">
+                // news.com.au
+                /* trending.esi prod 2018-06-14T06:35:23.781Z b089fce7403c59c6cdda0f3a0b6c9edf90060b4f */ (function() { var checkTrending = function() { var sections = [], tts = 'n'; for (var i=0; i<sections.length; i++) {/* Note: window.ndm is now deprecated */if (window.utag_data) { if(window.utag_data.net_sec1 && window.utag_data.net_sec1==sections[i]){ tts="y"; } else if(window.utag_data.net_sec2 && window.utag_data.net_sec2==sections[i]){ tts="y"; } else if(window.utag_data.net_sec3 && window.utag_data.net_sec3==sections[i]){ tts="y"; } else if(window.utag_data.net_sec4 && window.utag_data.net_sec4==sections[i]){ tts="y"; } } else { tts="err"; } } window.ads_extra=window.ads_extra || {}; window.ads_extra.tts=tts;/* Trending */window.ads_extra.ttm='n';/* Trending in top10 */ }; window.ads_api = window.ads_api || {}; window.ads_api.ready = window.ads_api.ready || []; window.ads_api.ready.push(checkTrending); })();
+                </script> <!-- end of top/all.esi --><script>window._taboola = window._taboola || [];
+_taboola.push({article:'auto'});
+!function (e, f, u, i) {
+	if (!document.getElementById(i)) {
+		e.async = 1;
+		e.src = u;
+		e.id = i;
+		f.parentNode.insertBefore(e, f);
+	}
+} (document.createElement('script'),
+document.getElementsByTagName('script')[0],
+'//cdn.taboola.com/libtrc/newscorpau-aud-newscomau/loader.js',
+'tb_loader_script');
+if(window.performance && typeof window.performance.mark == 'function') {
+	window.performance.mark('tbl_ic');
+}
+</script><script>LUX=(function(){var a=("undefined"!==typeof(LUX)&&"undefined"!==typeof(LUX.gaMarks)?LUX.gaMarks:[]);var d=("undefined"!==typeof(LUX)&&"undefined"!==typeof(LUX.gaMeasures)?LUX.gaMeasures:[]);var j="LUX_start";var k=window.performance;var l=("undefined"!==typeof(LUX)&&LUX.ns?LUX.ns:(Date.now?Date.now():+(new Date())));if(k&&k.timing&&k.timing.navigationStart){l=k.timing.navigationStart}function f(){if(k&&k.now){return k.now()}var o=Date.now?Date.now():+(new Date());return o-l}function b(n){if(k){if(k.mark){return k.mark(n)}else{if(k.webkitMark){return k.webkitMark(n)}}}a.push({name:n,entryType:"mark",startTime:f(),duration:0});return}function m(p,t,n){if("undefined"===typeof(t)&&h(j)){t=j}if(k){if(k.measure){if(t){if(n){return k.measure(p,t,n)}else{return k.measure(p,t)}}else{return k.measure(p)}}else{if(k.webkitMeasure){return k.webkitMeasure(p,t,n)}}}var r=0,o=f();if(t){var s=h(t);if(s){r=s.startTime}else{if(k&&k.timing&&k.timing[t]){r=k.timing[t]-k.timing.navigationStart}else{return}}}if(n){var q=h(n);if(q){o=q.startTime}else{if(k&&k.timing&&k.timing[n]){o=k.timing[n]-k.timing.navigationStart}else{return}}}d.push({name:p,entryType:"measure",startTime:r,duration:(o-r)});return}function h(n){return c(n,g())}function c(p,o){for(i=o.length-1;i>=0;i--){var n=o[i];if(p===n.name){return n}}return undefined}function g(){if(k){if(k.getEntriesByType){return k.getEntriesByType("mark")}else{if(k.webkitGetEntriesByType){return k.webkitGetEntriesByType("mark")}}}return a}return{mark:b,measure:m,gaMarks:a,gaMeasures:d}})();LUX.ns=(Date.now?Date.now():+(new Date()));LUX.ac=[];LUX.cmd=function(a){LUX.ac.push(a)};LUX.init=function(){LUX.cmd(["init"])};LUX.send=function(){LUX.cmd(["send"])};LUX.addData=function(a,b){LUX.cmd(["addData",a,b])};LUX_ae=[];window.addEventListener("error",function(a){LUX_ae.push(a)});LUX_al=[];if("function"===typeof(PerformanceObserver)&&"function"===typeof(PerformanceLongTaskTiming)){var LongTaskObserver=new PerformanceObserver(function(c){var b=c.getEntries();for(var a=0;a<b.length;a++){var d=b[a];LUX_al.push(d)}});try{LongTaskObserver.observe({type:["longtask"]})}catch(e){}};
+</script><script src="https://cdn.speedcurve.com/js/lux.js?id=338391603" async defer crossorigin="anonymous" onload="LUX.addData('domain', 'news.com.au')"></script><script>LUX = window.LUX || {};
+LUX.label = "Article page standard";
+</script></head><body class="tcog-v2 newscomau desktop national national-nswact national-nswact-crime id36a99d1dcf44719a4a90c65a9bb804da"><!-- MEMBERTYPE: Anonymous --><div id="skip-links"><dl class="skip"><dt>Skip to:</dt><dd class="first"><a href="#page">Main Content</a></dd><dd><a href="#nav">Site Navigation</a></dd><dd><a href="#footer">Site footer</a></dd><dd><a href="/more-information/site-map">Site Map</a></dd></dl></div><div id="page"><div id="network-bar" class="network-bar-registration" data-nca-logged-in="false">
+	
+<!-- Begin wp_widget_area cache for e87692f4ff40538a8f4694fdc3900735 -->
+<div id="newscorpau_static_template-729" class="widget network-bar widget_newscorpau_static_template">
+
+
+
+<div class="network-bar-wrapper">
+			<ul class="header-ninbar">
+							<li class="nav-header-ninbar nav-in-the-know-quiz">
+					  <a href="https://www.news.com.au/in-the-know-quiz/dashboard">In the know quiz</a>
+
+				</li>
+							<li class="nav-header-ninbar nav-premium-membership">
+					  <a href="https://www.news.com.au/subscribe/news/1/?offerset=nw_default&amp;utm_medium=Affiliate&amp;int_source=Affiliate&amp;int_campaign=Project_Zero_Mar20&amp;int_content=Affiliate&amp;sourceCode=NWWEB_AFF250320211145">Premium membership</a>
+
+				</li>
+							<li class="nav-header-ninbar nav-best-of-shopping">
+					  <a href="https://www.news.com.au/best-of">Best of shopping</a>
+
+				</li>
+					</ul>
+	
+	<ul class="nav-registration-links">
+		<li class="nav-network-sign-bar">
+			<a href="#" class="nca-signin-btn" 
+					
+				data-tgev=event10
+			data-tgev-metric=ev
+			data-tgev-label=login-header
+			data-tgev-container=global-sign-in
+			data-tgev-order=1
+			data-tgev-pagename=spp-api
+	
+>Log in</a>
+			<a href="#" class="nca-logged-user" 
+					
+				data-tgev=event10
+			data-tgev-metric=ev
+			data-tgev-label=myaccount-header
+			data-tgev-container=global-sign-in
+			data-tgev-order=2
+			data-tgev-pagename=spp-api
+	
+></a>
+		</li>
+		<li class="nav-network-registration-bar">
+			<a href="https://www.news.com.au/subscribe/news/1/?mode=register&sourceCode=NWWEB_ONS_100_H" class="nca-register-btn">Sign up. </a>
+			<a href="https://www.news.com.au/national/newscomau-premium-reasons-to-become-a-member/news-story/9240a0e8baf13a38caf03941d6ec30b7" class="nca-register-benefits-btn">Why?</a>
+		</li>
+		<li class="nav-network-logout-bar">
+			<a href="#" class="nca-logout-btn">Log out</a>
+		</li>
+	</ul>
+</div>
+</div>
+<!-- End wp_widget_area cache for e87692f4ff40538a8f4694fdc3900735 -->
+
+</div>
+
+<img class="tcog-pixel" src="https://i1.wp.com/pixel.tcog.cp1.news.com.au/track/spp-api/v1/template/?esi=true&path=components.nav-network-bar&t_domain=news.com.au&t_product=newscomau" style="opacity:0; height:0px; width:0px; position:absolute;" width="0" height="0" />
+<div id="header">
+	<div id="header-logo">
+							<a href="https://www.news.com.au" 
+					
+				data-tgev=event10
+			data-tgev-metric=npv
+			data-tgev-label=homepage
+			data-tgev-container=homepage-primary-nav
+			data-tgev-order=1
+			data-tgev-pagename=spp-api
+	
+>news.com.au — Australia’s leading news site>news.com.au — Australia’s leading news site</a>
+			</div>
+		
+							
+					<div id="header-ads">
+						<div class="ad ad-leaderboard">
+							<div class="ad-block ad-leader" id="ad-leader"></div>
+						</div>
+					</div>
+				
+		
+	</div>
+
+
+<img class="tcog-pixel" src="https://i1.wp.com/pixel.tcog.cp1.news.com.au/track/spp-api/v1/template/?esi=true&hide_ad=false&path=components.header-desktop&t_domain=news.com.au&t_product=newscomau" style="opacity:0; height:0px; width:0px; position:absolute;" width="0" height="0" />
+<nav>
+
+
+<div id="nav"><ul id="nav-wrap"><li id="nav-level1"><ul class="nav-list tier-1"><li class="nav-primary-nca-logo active first"><a class="homepage" href="/">News.com.au</a></li><li class="nav-item nav-national nav-national menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="/national">National</a></li><li class="nav-item nav-world nav-world menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="/world">World</a></li><li class="nav-item nav-lifestyle nav-lifestyle menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="/lifestyle">Lifestyle</a></li><li class="nav-item nav-travel nav-travel menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="/travel">Travel</a></li><li class="nav-item nav-entertainment nav-entertainment menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="/entertainment">Entertainment</a></li><li class="nav-item nav-technology nav-technology menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="/technology">Technology</a></li><li class="nav-item nav-finance nav-finance menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="/finance">Finance</a></li><li class="nav-item nav-sport nav-sport menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="/sport">Sport</a></li><li class="nav-header-search last"><a href="#">Search</a></li></ul></li></ul></div>
+<img class="tcog-pixel" src="https://i1.wp.com/pixel.tcog.cp1.news.com.au/track/spp-api/v1/template/?esi=true&path=components.nav-primary&t_domain=news.com.au&t_product=newscomau" style="opacity:0; height:0px; width:0px; position:absolute;" width="0" height="0" />
+</nav><div class="group-billboard-970x250"><div class="ad-block ad-billboard"></div></div><div id="section-breadcrumbs"><ul id="breadcrumbs" class="total-3"><li class="crumb level-1 "><a href="/national">national</a></li><li class="crumb level-2 child"><a href="/national/nsw-act">nsw &amp; act</a></li><li class="crumb level-3 child"><h2><a href="/national/nsw-act/crime">crime</a></h2></li></ul><div class="subscriber-premium-icon"></div></div><h1 class="story-headline">Sydney academic Dianne Jolley’s big admission caught on police phone tap, court told</h1><p class="intro">Phone taps reveal a big admission in the case of a Sydney professor accused of a bizarre fake hate mail campaign, a court has been told.</p><div id="story-info" class="story-info comments-none"><div class="author-info"><div class="name">Steve Zemek</div></div><div class="other-info"><span class="original-source"><span class="source">NCA NewsWire</span></span><span class="datestamp"><span class="icon-clock"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewbox="0 0 16 16"><path fill="#6e6e6e" d="M8 0a8 8 0 100 16A8 8 0 008 0zm2.293 11.707L7 8.414V4h2v3.586l2.707 2.707-1.415 1.415z"/></svg></span><span class="date">July 14, 2021</span><span class="time">4:46pm</span></span></div></div><div id="contentWrapper"><article id="story"><div class="tabbed"><ul class="tab-set"><li class="video tab active"><a href="#" class="active"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path fill="#444" d="M15 13.5L12 11v2.5a1 1 0 01-1 1H1a1 1 0 01-1-1V5a1 1 0 011-1h3.849L3.37 2H.5a.5.5 0 010-1h3a.5.5 0 01.5.5L6.036 4H11a1 1 0 011 1v2.5l3-3a1 1 0 011 1v7c0 .552-.386 1-1 1zM10.5 5h-3a.499.499 0 100 1h3a.499.499 0 100-1z"/></svg><span>Video</span></a></li><li class="image tab"><a href="#"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path fill="#444" d="M4.75 9.5a3.25 3.25 0 106.5 0 3.25 3.25 0 00-6.5 0zM15 4h-3.5c-.25-1-.5-2-1.5-2H6C5 2 4.75 3 4.5 4H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h14c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zm-7 9.938a4.438 4.438 0 110-8.876 4.438 4.438 0 010 8.876zM15 7h-2V6h2v1z"/></svg><span>Image</span></a></li></ul><div class="tabs"><div class="video media active primary-video"><div vms-embedcode="5348771529001-6105224274001" vms-page-type="story" vms-title="How do juries decide a verdict?" vms-caption="Juries are meant to represent the community, but some jury verdicts have shocked the world. What happens when the evidence becomes too complex, or jurors can't escape from a media frenzy?" class="vms module  " vms-sticky-target="mini-video"><div class="module-header vms-header"><h3>Juries are meant to represent the community, but some jury verdicts have shocked the world. What happens when the evidence becomes too complex, or jurors can't escape from a m...</h3></div><div class="module-content"><div class="poster"><img src="https://content.api.news/v3/images/bin/837462355a59ed5edcbf434cd9ce4546" alt="How do juries decide a verdict?"></div><div class="description"><p>Juries are meant to represent the community, but some jury verdicts have shocked the world. What happens when the evidence becomes too complex, or jurors can't escape from a media frenzy?</p></div></div></div></div><div class="w650 h365 image media primary"><div class="image-wrapper"><img src="https://cdn.newsapi.com.au/image/v1/20b426465316513ad520bf9fe66fb8cd?width=650" width="650" height="365"></div><p class="caption">Dianne Jolley has denied being responsible for a series of threatening letters sent to herself. Picture: NCA NewsWire/James Gourley<span class="image-source"><em>Source:News Corp Australia</em></span></p></div></div></div><p class="description">A Sydney professor accused of sending herself pairs of her own underwear amid a stream of fake threatening letters was caught on a police intercept admitting to penning two pieces of hate mail, a court has been told.</p><div class="story-content"><p>The NSW District Court trial of Dianne Jolley is nearing its end as the former University of Technology Sydney dean of sciences fights allegations that she was responsible for a bizarre intimidation campaign directed at herself.</p><p>Ms Jolley has been found not guilty of nine charges but is still facing another 11 counts, including fraud and conveying information likely to make a person fear for their safety.</p><p>She has pleaded not guilty, and her barrister Leah Rowan on Wednesday attacked her alleged motive as &#x201C;nonsense&#x201D; and claimed that Ms Jolley was the &#x201C;victim&#x201D; in the ordeal.</p><p>Crown prosecutor Roger Kimball used his closing address to highlight several key pieces of evidence, including CCTV and phone taps, which he said supported the argument that Ms Jolley was responsible for authoring 10 threatening letters and cards sent between July and November 2019.</p><div class="w650 h487 image media"><div class="image-wrapper"><img data-src="https://cdn.newsapi.com.au/image/v1/d667accf58de94b3f7827512a6cc2a97?width=650" width="650" height="487" alt="Ex-UTS professor Dianne Jolley has pleaded not guilty. Picture: NCA NewsWire/Christian Gilles"></div><p class="caption">Ex-UTS professor Dianne Jolley has pleaded not guilty. Picture: NCA NewsWire/Christian Gilles<span class="image-source"><em>Source:News Corp Australia</em></span></p></div><p>In her testimony, Ms Jolley admitted to writing one of the letters, explaining at the time that she found the stress of the real intimidation campaign against her too great and she wanted to be fired from her job.</p><p>In text messages sent to a colleague on November 18, five days after her arrest, she admitted: &#x201C;I know I have cracked under the pressure.</p><p>&#x201C;As a result I&#x2019;ve done a couple of things to piggyback on events ... things I&#x2019;m not proud of.</p><p>&#x201C;Obviously recently sabotaging myself. I guess as a subconscious need to make it stop.</p><div data-ad-size="4x4" data-device-type="web" class="ad-block ad-custom ad-unruly"></div><p>&#x201C;Ironic because I love the job, but the weight was too heavy for too long. I&#x2019;m so sorry couldn&#x2019;t take it, but now I&#x2019;m the only suspect.&#x201D;</p><div class="w650 h487 image media"><div class="image-wrapper"><img data-src="https://cdn.newsapi.com.au/image/v1/94715897f275abca1a7bfb5acb97381d?width=650" width="650" height="487" alt="The letter which Dianne Jolley has admitted writing to herself. Photo: Supplied via NCA NewsWire."></div><p class="caption">The letter which Dianne Jolley has admitted writing to herself. Photo: Supplied via NCA NewsWire.<span class="image-source"><em>Source:Supplied</em></span></p></div><p>The jury was also played a police phone tap in which Ms Jolley was overheard telling her personal assistant that she had admitted to sending two letters.</p><div id="newsletter-signup" data-permissions="NEWS_ELECTION" class="newsletter-signup"><div id="newsletter-signup-offer" class="newsletter-signup-offer"><p class="newsletter-content"><strong>The Party Games newsletter</strong> <span class="newsletter-description">Get your political briefing from news.com.au's political editor Samantha Maiden.</span></p>
+<p class="newsletter-button"><button class="newsletter-button-cta">Sign up</button></p></div><div id="newsletter-signup-confirmation" class="newsletter-signup-confirmation"><p class="newsletter-content"><strong>The Party Games newsletter</strong> <span class="newsletter-description">Success! Check your inbox for details. <a href="https://www.newsletters.news.com.au/nca">See all newsletters</a></p></div></div><p>&#x201C;What&#x2019;s happened in the stream of things, as things have gone on, I&#x2019;ve found it really hard,&#x201D; Ms Jolley is heard saying.</p><p>&#x201C;The various things have happened, the pressures that have happened and the threats that have happened. I found it very hard.&#x201D;</p><p>She goes on to say that after initially receiving support following the first flurry of hate mail, that soon &#x201C;disappeared.&#x201D;</p><p>&#x201C;I made some bad judgment calls and two of the letters that were sent were sent by me because I wanted some more support,&#x201D; she said.</p><p>&#x201C;I should have gone to a psychologist and now they&#x2019;re accusing me of everything.&#x201D;</p><div class="w650 h487 image media"><div class="image-wrapper"><img data-src="https://cdn.newsapi.com.au/image/v1/5089c2a06c96131bb66ce5153d76f9ec?width=650" width="650" height="487" alt="Ms Jolley was recorded on a police phone tap, a court has been told. Picture: NCA NewsWire / Jeremy Piper"></div><p class="caption">Ms Jolley was recorded on a police phone tap, a court has been told. Picture: NCA NewsWire / Jeremy Piper<span class="image-source"><em>Source:News Corp Australia</em></span></p></div><p>She testified that at the time the university was planning to close its traditional Chinese medicine course, and as the face of the proposed change, she was experiencing angry resistance from members of the community.</p><p>This included receiving a letter &#x2013; prior to the first one for which she was charged &#x2013; that threatened to send her picture to the &#x201C;Chinese mafia&#x201D;.</p><p>When the threatening letters began trickling in on July 31, 2019, the university went to great lengths to put security measures around Ms Jolley, spending more than $127,000 on installing CCTV cameras at her home and office and providing her with a personal bodyguard.</p><p>She argued that the stress became too great when someone broke into her backyard, sliced up pieces of her clothing and stole pairs of her underwear, which were later sent to her alongside a threatening letter.</p><p>She said after reviewing her contract, she resolved the only way to get out of her $320,000-a-year role immediately was to incur a misconduct charge. She decided the best way to do that was to be caught red-handed penning a fake threatening letter, the jury was told.</p><p>She admitted to typing up one of the letters and printing it off inside her office at UTS&#x2019;s Ultimo campus but said she was otherwise innocent of sending any of the notes.</p><p>But Mr Kimball said Ms Jolley&#x2019;s fingerprints were found on the back of a stamp that was used to send one of the letters, arguing she was responsible for all of them.</p><div class="w650 h487 image media"><div class="image-wrapper"><img data-src="https://cdn.newsapi.com.au/image/v1/17bca0b1099ae8f04742f0a3578b10ab?width=650" width="650" height="487" alt="Some of the letters allegedly sent by Ms Jolley to herself. Picture: Supplied"></div><p class="caption">Some of the letters allegedly sent by Ms Jolley to herself. Picture: Supplied<span class="image-source"><em>Source:Supplied</em></span></p></div><div class="w650 h487 image media"><div class="image-wrapper"><img data-src="https://cdn.newsapi.com.au/image/v1/e7d3a0ce6daec02abc9d104a7ead31ac?width=650" width="650" height="487" alt="Ms Jolley has denied penning 10 threatening letters to herself. Picture: Supplied"></div><p class="caption">Ms Jolley has denied penning 10 threatening letters to herself. Picture: Supplied<span class="image-source"><em>Source:Supplied</em></span></p></div><div class="w650 h487 image media"><div class="image-wrapper"><img data-src="https://cdn.newsapi.com.au/image/v1/04825157ac82dba04ff7b3b2e40f5b25?width=650" width="650" height="487" alt="Ms Jolley says she does not know who is responsible for sending the threatening letters. Picture: Supplied"></div><p class="caption">Ms Jolley says she does not know who is responsible for sending the threatening letters. Picture: Supplied<span class="image-source"><em>Source:Supplied</em></span></p></div><p><br eom-tag-name="br">Ms Rowan attacked the crown case and her supposed motive.</p><p>She said Ms Jolley did not need to muster sympathy or support to push through the closure of the traditional Chinese medicine course, considering the decision had already been made by others.</p><p>&#x201C;The accused doesn&#x2019;t have a reason to send a threatening letter to herself,&#x201D; Ms Rowan said.</p><p>&#x201C;I don&#x2019;t know if the crown proposition is that Professor Jolley is some sort of drama queen despite the fact she has never shown any sort of behaviour which would be consistent with it.</p><p>&#x201C;I don&#x2019;t know if he&#x2019;s suggesting she&#x2019;s some sort of Machiavellian creature using counterintuitive behaviour to try and get through (the closure of) a course that is already going through.&#x201D;</p><p>Ms Rowan also criticised the police investigation, saying several key witnesses, including potential suspects, weren&#x2019;t interviewed or called to give evidence.</p><p>She also said the jury should reject suggestions that Ms Jolley would send herself her own underwear given she knew other people would view the clothing items, describing it as &#x201C;humiliating&#x201D;.</p><p>&#x201C;At her level, at her age, why on earth would she commit these sorts of offences? No reason at all,&#x201D; Ms Rowan said.</p><p>&#x201C;Where is the evidence that she lied to you about anything? Where is the evidence she lied to anyone about anything?</p><p>&#x201C;She was the victim in this case. That&#x2019;s a word that hasn&#x2019;t been used. She was the victim.&#x201D;</p><p>The trial will continue on Friday with Judge Ian Bourke&#x2019;s directions to the jury, which is expected to retire to consider its verdict early next week.</p></div><div id="share-and-comment"></div></article><aside class="video-stick"><div id="sticky-module-1"><div id="ad-wrap-1"><div id="ad-halfpage" class="ad ad-halfpage"></div></div><div id="mini-video" class="vms-sticky-player"></div></div><div id="sticky-module-2"><div id="ad-wrap-2"><div class="module plmnt-trending-images"><div class="module-header"><h3 class="heading">trending in national</h3></div><div class="module-content"><ul class="trending-news-list"><li><div class="link-wrapper"><div class="count">379</div><div class="image"><a href="https://news.com.au/national/queensland/news/several-exposures-sites-listed-across-ipswich-and-brisbane/news-story/41054cdf3a0cc6342a7d94400bbec80d"><img src="https://cdn.newsapi.com.au/image/v1/0ba0ef5199e608b8c5266bc17a596d06" width="149" height="86" alt="JB Hi Fi gears up for a bumper Black Friday this year. Image: Supplied."/>
+<img class="tcog-pixel" src="https://i1.wp.com/pixel.tcog.cp1.news.com.au/track/component/article/41054cdf3a0cc6342a7d94400bbec80d?t_domain=news.com.au&t_product=newscomau&t_template=s3/ncatemp/bodyandsoul/fragment/thumbnail" style="opacity:0; height:0px; width:0px; position:absolute;" width="0" height="0" />
+</a></div><a href="https://news.com.au/national/queensland/news/several-exposures-sites-listed-across-ipswich-and-brisbane/news-story/41054cdf3a0cc6342a7d94400bbec80d">Latest Qld Covid exposure sites: Several venues listed in Ip...</a></div></li><li><div class="link-wrapper"><div class="count">348</div><div class="image"><a href="https://news.com.au/national/victoria/victorian-couple-killed-in-headon-crash-in-tasmania-shared-holiday-snaps-before-tragedy/news-story/f3de8cb96c8b49680a9ebd3be731f825"><img src="https://cdn.newsapi.com.au/image/v1/cc0308925779b98951ebfd1d78e44521" width="149" height="86" alt="Victorian couple Nathan and Chei David were tragically killed in a head-on crash near Launceston, Tasmania. Pictured with their three sons. Picture: Facebook"/>
+<img class="tcog-pixel" src="https://i1.wp.com/pixel.tcog.cp1.news.com.au/track/component/article/f3de8cb96c8b49680a9ebd3be731f825?t_domain=news.com.au&t_product=newscomau&t_template=s3/ncatemp/bodyandsoul/fragment/thumbnail" style="opacity:0; height:0px; width:0px; position:absolute;" width="0" height="0" />
+</a></div><a href="https://news.com.au/national/victoria/victorian-couple-killed-in-headon-crash-in-tasmania-shared-holiday-snaps-before-tragedy/news-story/f3de8cb96c8b49680a9ebd3be731f825">Victorian couple killed in head-on crash in Tasmania shared ...</a></div></li><li><div class="link-wrapper"><div class="count">203</div><div class="image"><a href="https://news.com.au/national/victoria/courts-law/celeste-mannos-alleged-killer-found-by-prison-guards-after-selfharming/news-story/c83381731e18410b7619974866db2e52"><img src="https://cdn.newsapi.com.au/image/v1/447d2d45ee6fc2ffbdbc0df607b8c82b" width="149" height="86" alt="Celeste Manno was murdered allegedly by her stalker while sleeping in her bedroom in November 2020."/>
+<img class="tcog-pixel" src="https://i1.wp.com/pixel.tcog.cp1.news.com.au/track/component/article/c83381731e18410b7619974866db2e52?t_domain=news.com.au&t_product=newscomau&t_template=s3/ncatemp/bodyandsoul/fragment/thumbnail" style="opacity:0; height:0px; width:0px; position:absolute;" width="0" height="0" />
+</a></div><a href="https://news.com.au/national/victoria/courts-law/celeste-mannos-alleged-killer-found-by-prison-guards-after-selfharming/news-story/c83381731e18410b7619974866db2e52">Celeste Manno’s alleged killer Luay Sako found by prison gua...</a></div></li><li><div class="link-wrapper"><div class="count">176</div><div class="image"><a href="https://news.com.au/national/nsw-act/news/nsw-covid-exposure-site-list-grows-as-coles-in-fairfield-westfield-in-miranda-added/news-story/22c0a938c7a7870204a96836772fdb14"><img src="https://cdn.newsapi.com.au/image/v1/bfd79c6bdc44aedbb9c18d45e2c6c24a" width="149" height="86" alt="SYDNEY, AUSTRALIA - AUGUST 17: A woman in a surgical mask walks past the entrance to the Woolworths Metro supermarket in North Strathfield on August 17, 2020 in Sydney, Australia. New South Wales remains on high alert as new COVID-19 cases continue to be diagnosed. Customers of the Supermarket are being urged to watch for symptoms after a person who has tested positive for COVID-19 case visited the store over the weekend. The state recorded seven new cases of COVID-19 in the last 24 hours with six locally-acquired and one in hotel quarantine. (Photo by Brook Mitchell/Getty Images)"/>
+<img class="tcog-pixel" src="https://i1.wp.com/pixel.tcog.cp1.news.com.au/track/component/article/22c0a938c7a7870204a96836772fdb14?t_domain=news.com.au&t_product=newscomau&t_template=s3/ncatemp/bodyandsoul/fragment/thumbnail" style="opacity:0; height:0px; width:0px; position:absolute;" width="0" height="0" />
+</a></div><a href="https://news.com.au/national/nsw-act/news/nsw-covid-exposure-site-list-grows-as-coles-in-fairfield-westfield-in-miranda-added/news-story/22c0a938c7a7870204a96836772fdb14">NSW Covid-19: Full exposure site list as Sydney outbreak gro...</a></div></li><li><div class="link-wrapper"><div class="count">142</div><div class="image"><a href="https://news.com.au/national/victoria/news/teacher-at-bacchus-marsh-grammar-tests-positive-to-covid19/news-story/70b45480cda3deb65bb29b584059786b"><img src="https://cdn.newsapi.com.au/image/v1/2ca03d3cfb4ff7544677554d87dc7b3c" width="149" height="86" alt="Bacchus Marsh Grammar. Supplied"/>
+<img class="tcog-pixel" src="https://i1.wp.com/pixel.tcog.cp1.news.com.au/track/component/article/70b45480cda3deb65bb29b584059786b?t_domain=news.com.au&t_product=newscomau&t_template=s3/ncatemp/bodyandsoul/fragment/thumbnail" style="opacity:0; height:0px; width:0px; position:absolute;" width="0" height="0" />
+</a></div><a href="https://news.com.au/national/victoria/news/teacher-at-bacchus-marsh-grammar-tests-positive-to-covid19/news-story/70b45480cda3deb65bb29b584059786b">Bacchus Marsh Grammar teacher tests positive to Covid-19: Me...</a></div></li></ul></div></div>
+<img class="tcog-pixel" src="https://i1.wp.com/pixel.tcog.cp1.news.com.au/track/chartbeat/live/toppages/v3/?esi=true&host=news.com.au&limit=5&section=national&sort_by=internal&t_product=newscomau&t_template=s3/ncatemp/bodyandsoul/fragment/trending&td_heading=trending%2520in%2520national&td_showcount=true&td_showimages=true&type=article" style="opacity:0; height:0px; width:0px; position:absolute;" width="0" height="0" />
+<div id="ad-island-2" class="ad adisland"><div id="ad-mrec-1" class="ad-block ad-mrec"></div></div></div></div></aside><div id="bottom-share" class="bottom-share"><ul class="share-tools"><li class="share facebook"><a href="https://www.facebook.com/dialog/share?app_id=113758722003364&amp;href=https%3A%2F%2Fwww.news.com.au%2Fnational%2Fnsw-act%2Fcrime%2Fsydney-academic-dianne-jolleys-big-admission-caught-on-police-phone-tap-court-told%2Fnews-story%2F36a99d1dcf44719a4a90c65a9bb804da%23sharehash&amp;redirect_uri=https%3A%2F%2Fwww.news.com.au%2Fnational%2Fnsw-act%2Fcrime%2Fsydney-academic-dianne-jolleys-big-admission-caught-on-police-phone-tap-court-told%2Fnews-story%2F36a99d1dcf44719a4a90c65a9bb804da%23sharehash" target="_blank" data-tgev="event6" data-tgev-metric="ev" data-tgev-social="facebook:storybottom"><span class="share-icon"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path d="M31.996 16c0-8.836-7.16-16-15.996-16S0 7.164 0 16c0 7.984 5.852 14.602 13.5 15.8V20.626H9.437V16H13.5v-3.523c0-4.012 2.387-6.227 6.043-6.227 1.75 0 3.578.313 3.578.313V10.5h-2.016c-1.984 0-2.605 1.23-2.605 2.496V16h4.438l-.711 4.625H18.5v11.18C26.148 30.605 32 23.985 32 16zm0 0" fill="#1877f2"/></svg></span><span class="share-text">Share on Facebook</span></a></li><li class="share twitter"><a href="https://twitter.com/intent/tweet?text=Professor%E2%80%99s%20big%20admission%20caught%20on%20tape&amp;via=newscomauHQ&amp;url=https%3A%2F%2Fwww.news.com.au%2Fnational%2Fnsw-act%2Fcrime%2Fsydney-academic-dianne-jolleys-big-admission-caught-on-police-phone-tap-court-told%2Fnews-story%2F36a99d1dcf44719a4a90c65a9bb804da%23sharehash" target="_blank" data-tgev="event6" data-tgev-metric="ev" data-tgev-social="twitter:storybottom"><span class="share-icon"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><g fill="none" fill-rule="evenodd"><rect fill="#1DA1F2" width="32" height="32" rx="16"/><path d="M23.031 12.996c0-.142-.003-.284-.01-.424a6.822 6.822 0 001.713-1.7 7.102 7.102 0 01-1.972.517 3.324 3.324 0 001.51-1.815 7.076 7.076 0 01-2.18.796 3.505 3.505 0 00-2.506-1.037c-1.896 0-3.434 1.47-3.434 3.282 0 .258.03.508.09.748-2.854-.137-5.384-1.443-7.077-3.429a3.16 3.16 0 00-.465 1.65c0 1.138.606 2.144 1.528 2.732a3.53 3.53 0 01-1.555-.41l-.001.04c0 1.59 1.183 2.917 2.754 3.218a3.593 3.593 0 01-1.55.056c.437 1.304 1.704 2.253 3.207 2.28a7.094 7.094 0 01-4.264 1.405A7.3 7.3 0 018 20.859a10.049 10.049 0 005.263 1.474c6.315 0 9.768-5 9.768-9.337z" fill="#FFF"/></g></svg></span><span class="share-text">Share on Twitter</span></a></li><li class="share email"><a href="mailto:?subject=news.com.au%20-%20Professor%E2%80%99s%20big%20admission%20caught%20on%20tape&amp;body=Hi%2C%0A%0AI%20found%20this%20article%20from%20news.com.au%20that%20you%20might%20be%20interested%20in%3A%20%0A%0Ahttps%3A%2F%2Fwww.news.com.au%2Fnational%2Fnsw-act%2Fcrime%2Fsydney-academic-dianne-jolleys-big-admission-caught-on-police-phone-tap-court-told%2Fnews-story%2F36a99d1dcf44719a4a90c65a9bb804da%23sharehash" target="_blank" data-tgev="event6" data-tgev-metric="ev" data-tgev-social="email:storybottom"><span class="share-icon"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#000" d="M16 0C7.163 0 0 7.163 0 16s7.163 16 16 16 16-7.163 16-16S24.837 0 16 0zM8 8h16c.286 0 .563.061.817.177L16 18.463 7.183 8.176c.254-.116.531-.177.817-.177zM6 22V10c0-.042.002-.084.004-.125l5.864 6.842-5.8 5.8A1.983 1.983 0 015.999 22zm18 2H8c-.177 0-.35-.024-.517-.069l5.691-5.691L16 21.537l2.826-3.297 5.691 5.691c-.167.045-.34.069-.517.069zm2-2c0 .177-.024.35-.069.517l-5.8-5.8 5.865-6.842c.003.041.004.083.004.125v12z"/></svg></span><span class="share-text">Share via Email</span></a></li></ul></div><div id="bottom"><div class="inner-wrapper"><div id="taboola-desktop-below-article-native"></div><script>window._taboola = window._taboola || [];
+_taboola.push({
+	mode: 'thumbnails-bc-desktop-article-native',
+	container: 'taboola-desktop-below-article-native',
+	placement: 'Desktop Below Article Native',
+	target_type: 'mix'
+});
+</script><div class="promoted-stories"><div id="taboola-below-article-thumbnails"></div><script>window._taboola = window._taboola || [];
+_taboola.push({
+	mode: 'alternating-thumbnails-a',
+	container: 'taboola-below-article-thumbnails',
+	placement: 'Below Article Thumbnails',
+	target_type: 'mix'
+});
+</script></div></div><div class="bottom-bg"></div></div><div id="back-to-top"><a href="#page">Back to Top</a></div><div id="content-5"></div></div></div><div id="module-more-in" class="module module-more-in sticky-hidden"><div class="module-header"><h2 class="heading"> 
+MORE IN nsw act<div id="click-zone"></div><div id="more-in-arrow"></div></h2></div><div class="module-content"><ul><li class="sticky-article sbpos-1 sbrpos-5"><a href="https://www.news.com.au/national/nsw-act/crime/dramatic-footage-of-penrith-stabbing-released-as-police-seek-help-to-identify-male-female/news-story/e56a3d22e7c3b4aa83f97e2b6ff93c43" class="thumb-link"><div class="sticky-article-title"><h4 class="heading">Dramatic footage after stabbing</h4></div><div class="thumb-image"><img src="https://cdn.newsapi.com.au/image/v1/964a4c5d437264cfdec518ad50b8cf3d" width="149" height="86" class="more-in-article-image"/></div></a></li><li class="sticky-article sbpos-2 sbrpos-4"><a href="https://www.news.com.au/sport/nrl/judge-inclined-to-find-former-nrl-star-michael-jennings-did-rape-exwife-civil-court-case-hears/news-story/8e91f8d16c764aaf5cf2c661273f70ff" class="thumb-link"><div class="sticky-article-title"><h4 class="heading">NRL star rape case sent to mediation</h4></div><div class="thumb-image"><img src="https://cdn.newsapi.com.au/image/v1/afe245ceb2d19f6b0d7bb511771b5dd5" width="149" height="86" class="more-in-article-image"/></div></a></li><li class="sticky-article sbpos-4 sbrpos-2"><a href="https://www.news.com.au/national/nsw-act/crime/two-men-arrested-over-alleged-shooting-murder-of-mejid-hamzy-at-condell-park/news-story/80f53f07bcb2bfb85e191a18234d0fd5" class="thumb-link"><div class="sticky-article-title"><h4 class="heading">Brothers arrested over Hamzy shooting</h4></div><div class="thumb-image"><img src="https://cdn.newsapi.com.au/image/v1/1827adcc2a33e711d5f9b83e26fa79e6" width="149" height="86" class="more-in-article-image"/></div></a></li><li class="sticky-article sbpos-5 sbrpos-1"><a href="https://www.news.com.au/national/nsw-act/crime/man-suffers-punctured-lung-multiple-stab-wounds-in-shocking-bondi-stabbing/news-story/160fd369c0717660a7ff7d1a9077c692" class="thumb-link"><div class="sticky-article-title"><h4 class="heading">Man’s lung punctured in Bondi stabbing</h4></div><div class="thumb-image"><img src="https://cdn.newsapi.com.au/image/v1/ace776bffeb12d2b763a6f96fd7772dc" width="149" height="86" class="more-in-article-image"/></div></a></li></ul></div><div class="lined-background"></div></div>
+<img class="tcog-pixel" src="https://i1.wp.com/pixel.tcog.cp1.news.com.au/track/news/content/v2?includeRelated=true&pageSize=5&query=(contentType:NEWS_STORY%2520AND%2520paidStatus:NON_PREMIUM%2520AND%2520domains:news.com.au%2520AND%2520categories.value:%2522%252Fdisplay%252Fnewscorpaustralia.com%252FWeb%252FNewsNetwork%252FNetwork%2520News%252FNational%252FNSW%2520%2526%2520ACT%252FCrime%252F%2522)&t_product=newscomau&t_template=s3/ncatemp/standalone/readnext/more-in&td_module-header=nsw+act&td_storyID=36a99d1dcf44719a4a90c65a9bb804da" style="opacity:0; height:0px; width:0px; position:absolute;" width="0" height="0" />
+
+
+
+
+		
+
+
+<div id="footer-ads"><div class="ad ad-leaderboard"><div id="ad-leader" class="ad-block ad-leader"></div></div></div><footer id="footer"><div class="footer-content"><div class="content-item cipos-1 cirpos-4"><ul class="footer-nav-social"><li class="nav-title">Find us</li><li><a href="https://www.facebook.com/news.com.au" class="nav-icon nav-facebook"></a></li><li><a href="https://twitter.com/newscomauHQ" class="nav-icon nav-twitter"></a></li><li><a href="https://www.instagram.com/newscomauHQ" class="nav-icon nav-instagram"></a></li></ul><div class="footer-policy"><a href="https://www.newscorpaustralia.com/brand/newscomau/" class="footer-nav-advertise"><div class="nav-title">Advertise</div><div class="nav-icon nav-advertise"></div></a><a href="https://www.news.com.au/more-information" class="footer-nav-about"><div class="nav-title">About Us</div><div class="nav-icon nav-about"></div></a><a href="https://www.newsletters.news.com.au/nca" class="footer-nav-newsletters"><div class="nav-title">Newsletters</div><div class="nav-icon nav-newsletters"></div></a><a href="https://www.news.com.au/subscribe/news/1/?offerset=nw_default&amp;utm_medium=Affiliate&amp;int_source=Affiliate&amp;int_campaign=Project_Zero_Mar20&amp;int_content=Affiliate&amp;sourceCode=NWWEB_AFF250320211145" class="footer-nav-premium-membership"><div class="nav-title">Premium membership</div><div class="nav-icon nav-premium-membership"></div></a><div class="footer-nav-app"><div class="nav-title">Download the App</div><a href="https://www.news.com.au/app" class="footer-nav-app-ios"></a><a href="https://www.news.com.au/app" class="footer-nav-app-android"></a><div class="nav-icon nav-app"></div></div></div></div><div class="content-item cipos-2 cirpos-3"><ul class="footer-legals"><li class="nav-legals nav-privacy-policy first"><a href="https://preferences.news.com.au/privacy">Privacy Policy</a></li><li class="nav-legals nav-relevant-ad-opt-out "><a href="https://preferences.news.com.au/privacy">Relevant Ad Opt-Out</a></li><li class="nav-legals nav-cookie-policy "><a href="https://preferences.news.com.au/cookies">Cookie Policy</a></li><li class="nav-legals nav-terms-&amp;-conditions "><a href="https://www.news.com.au/more-information/terms-and-conditions">Terms &amp; Conditions</a></li><li class="nav-legals nav-our-team "><a href="https://www.news.com.au/the-team">Our Team</a></li><li class="nav-legals nav-coupons "><a href="https://www.news.com.au/coupons">Coupons</a></li><li class="nav-legals nav-licencing "><a href="https://form.123formbuilder.com/5838955/News-Corp-Copyright-And-Licensing-Inquiry-Form">Licencing</a></li><li class="nav-legals nav-connect last"><a href="https://access.connect.news.com.au/">Connect</a></li></ul></div><div class="content-item cipos-3 cirpos-2"><p class="disclaimer-text"><strong>A NOTE ABOUT RELEVANT ADVERTISING:</strong> We collect information about the content (including ads) you use across this site and use it to make both advertising and content more relevant to you on our network and other sites.<a href="https://preferences.news.com.au/privacy"> Find out more about our policy and your choices, including how to opt-out.</a></p><p class="copyright-text">Nationwide News Pty Limited Copyright &copy; 2021. <span class="timestamp-text">All times AEST (GMT +10).</span></p><p class="powered-by-wordpress">Powered by <a href="https://vip.wordpress.com/" rel="nofollow">WordPress.com VIP</a></p></div></div></footer>
+<img class="tcog-pixel" src="https://i1.wp.com/pixel.tcog.cp1.news.com.au/track/spp-api/v1/template/?articleGMT=10&esi=true&hide_ad=false&path=components.footer-desktop&t_domain=news.com.au&t_product=newscomau" style="opacity:0; height:0px; width:0px; position:absolute;" width="0" height="0" />
+<div id="stats"><script>utag_data                           = window.utag_data || {};
+utag_data.pn                        = "newscomau | national | story | Sydney academic Dianne Jolley’s big admission caught on police phone tap, court told";
+utag_data.responsive_platform       = "web";
+utag_data.mp_story_id               = "36a99d1dcf44719a4a90c65a9bb804da";
+utag_data.mp_section_id             = "";
+utag_data.net_content_type          = "story";
+utag_data.net_sec1                  = "news";
+utag_data.net_sec2                  = "national";
+utag_data.net_sec3                  = "nsw-act";
+utag_data.net_sec4                  = "crime";
+utag_data.net_sec5                  = "";
+utag_data.net_sec6                  = "";
+utag_data.affiliate                 = "";
+utag_data.net_article_id            = "36a99d1dcf44719a4a90c65a9bb804da";
+utag_data.net_article_headline      = "Sydney academic Dianne Jolley’s big admission caught on police phone tap, court told";
+utag_data.net_article_byline        = "Steve Zemek";
+utag_data.net_article_source        = "NCA NewsWire";
+utag_data.net_article_standfirst    = "Phone taps reveal a big admission in the case of a Sydney professor accused of a bizarre fake hate mail campaign, a court has been told.";
+utag_data.net_article_thumbnail     = "https://cdn.newsapi.com.au/image/v1/thumbnail/b1cf5ee35a2fcc0800de1b72b0627e0d";
+utag_data.net_template              = "tcog.2.0.0";
+utag_data.net_platform              = "web";
+utag_data.net_content_type          = "video+story";
+utag_data.net_article_date			= "2021-07-14 16:46:00";
+utag_data.net_article_updated_time	= "2021-07-14 16:46:00";
+
+// Add the topic name to the first empty sec value
+var topicIndex = parseInt('4', 10) + 1;
+utag_data['net_sec' + topicIndex] = 'sydney';
+utag_data['ad_sec' + topicIndex] = 'sydney';
+</script></div><div id="resources"><script src="https://resourcesssl.newscdn.com.au/cs/ncatemp/2.0.0/assets/js/ncadesktop.min.js" crossorigin="anonymous"></script><script src="https://resourcesssl.newscdn.com.au/cs/video/vjs/stable/build/player.js" id="js-id-0"></script><script src="https://www.news.com.au/features/v3/assets/js/thirdparty/bluebird/bluebird.min.js" id="js-id-39" nomodule></script><script src="https://www.news.com.au/features/v3/assets/js/p/2021/promo/upgrade.min.js" id="js-id-40" async></script><!-- bottom/all.esi prod 2020-09-23T01:46:46.630Z e2fd69d11987add3b48ba9e102d83569a487ee36 --><!-- 2021-01-18T00:15:53.667Z 1d9d56f71a982d1d941aeccc3001d0e17404be98
+ -->
+<script type="text/javascript" src="//tags.news.com.au/prod/adblock/adblock.js" async></script>
+<script type="text/javascript">
+    !function(){function e(e){var t=!(!window.googletag||"object"!=typeof window.googletag||!window.googletag.apiReady||"boolean"!=typeof window.googletag.apiReady);e(t)}function t(e){var t=!1,n=setInterval(function(){window.googletag&&window.googletag.apiReady&&window.googletag.cmd&&(clearInterval(n),window.googletag.cmd.push(function(){window.googletag.pubads().addEventListener("slotRenderEnded",function(n){t||(t=!0,e(!0))})}))},500);setTimeout(function(){clearInterval(n)},18e4)}function n(e){var t=!(!window.utag_data||!window.utag_data.no_adblocker||"boolean"!=typeof window.utag_data.no_adblocker);e(t)}function o(e){window.metrics=window.metrics||{},window.metrics.defaultsReady=window.metrics.defaultsReady||[],window.metrics.defaultsReady.push(function(){e(!0)})}function a(e){e(!0)}function i(e,t,n,o,a,i){setTimeout(function(){var t=setTimeout(function(){i.result||n(a)},o);e(function(e){clearTimeout(t),e&&(i.result=!0),n(e)})},t)}function c(e,t){for(var n=e.length,o=function(e){return function(o){e(o),n--,0===n&&t()}},a=0;a<e.length;a++){var c=e[a];if(c.result=!1,i(c.func,c.wait,o(c.callback),c.timeout,c.def,c),c.retries)for(var u=0;u<c.retries.length;u++)i(c.func,c.wait+c.retries[u],o(c.callback),c.timeout,c.def,c)}}function u(e,t){var n,o;if(o=escape(t)+"; path=/",t===!1)n=new Date(0),o+="; expires="+n.toUTCString();else{var a=6048e5;n=new Date((new Date).getTime()+a),o+="; expires="+n.toUTCString()}document.cookie=e+"="+o}function d(e){var t=new RegExp("(?:^"+e+"|; *"+e+")=(.*?)(?:;|$)","g"),n=t.exec(document.cookie);return null===n?null:n[1]}window.utag_data=window.utag_data||{};var r=[],w=[0,0,0,0,0],l=function(){var e=w.join("");window.utag_data.cbd=e,parseInt(e,10)>0?u("cbd",e):u("cbd",!1),window.location.href.indexOf("debug=1")>=0&&console.log("cbd: ",e)},f=function(e){return function(t){w[e]=t?0:1,l()}};r.push({func:e,callback:f(0),wait:8e3,timeout:1e3,def:!1,retries:[3e4,6e4]}),r.push({func:t,callback:f(1),wait:0,timeout:11e3,def:!1}),r.push({func:n,callback:f(2),wait:5e3,timeout:1e3,def:!1}),r.push({func:o,callback:f(3),wait:1e4,timeout:1e3,def:!1}),r.push({func:a,callback:f(4),wait:0,timeout:0,def:!1});try{var g=d("cbd");g&&(window.utag_data.prev_cbd=g,window.utag_data.cbd=g),c(r,function(){})}catch(s){window.location.href.indexOf("debug=1")>=0&&console.error(s)}}();
+</script>
+
+    
+        
+    
+    
+        
+    
+    
+        <!-- adobe pixel not fired -->
+    
+
+ <!-- end of bottom/all.esi --></div><script>if (window.navigator.userAgent.indexOf("Trident/7.0") > -1) {
+	var e = document.createElement("script");
+	e.src = "https://www.news.com.au/wp-content/themes/newscorpau-nca/assets/dist/v2/js/desktop/iepopoverbanner-concat-min.js";
+	document.head.appendChild(e);
+}
+</script><script>window._taboola = window._taboola || [];
+_taboola.push({flush: true});
+</script>
+<img class="tcog-pixel" src="https://i1.wp.com/pixel.tcog.cp1.news.com.au/track/component/resource/networksales/exoduscampaigns/campaigns.json?esi=true&t_product=newscomau&t_template=s3/networksales-loader/index&td_channel=desktop&td_domain=news.com.au&td_pagetype=story&td_section=national/nsw-act/crime" style="opacity:0; height:0px; width:0px; position:absolute;" width="0" height="0" />
+</body></html>
+<img class="tcog-pixel" src="https://i1.wp.com/pixel.tcog.cp1.news.com.au/track/component/article/news/desktop/national/nsw-act/crime/sydney-academic-dianne-jolleys-big-admission-caught-on-police-phone-tap-court-told/news-story/36a99d1dcf44719a4a90c65a9bb804da?t_product=newscomau&t_template=s3/ncatemp/router@2.0.0&td_display=desktop&t_trouter=true" style="opacity:0; height:0px; width:0px; position:absolute;" width="0" height="0" />

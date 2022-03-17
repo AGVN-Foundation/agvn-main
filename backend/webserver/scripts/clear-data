@@ -1,0 +1,5 @@
+#!/bin/bash
+# different to 'reset-db'
+# this merely clears all the data, but keeps the tables
+
+python manage.py flush --noinput

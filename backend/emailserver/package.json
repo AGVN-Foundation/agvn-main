@@ -1,0 +1,26 @@
+{
+  "name": "emailserver",
+  "version": "1.0.0",
+  "description": "A backend for storing emails. Supports sending and browsing emails for different users.",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon App.js"
+  },
+  "author": "His Majesty",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mailparser": "^3.2.0",
+    "mock-mongoose": "^8.0.1-a",
+    "mongoose": "^5.13.2",
+    "nodemailer": "^6.6.2",
+    "nodemon": "^2.0.12",
+    "smtp-server": "^3.9.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.14.5",
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.14.7"
+  }
+}

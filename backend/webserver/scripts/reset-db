@@ -1,0 +1,14 @@
+#!/bin/bash
+# NOTE: later will also automatically send data to database 
+
+alias MANAGE='python manage.py'
+
+export PGPASSWORD="password"
+rm -rf api/migrations/*
+touch api/migrations/__init__.py
+psql -h localhost -U postgres <<< "DROP SCHEMA public CASCADE;"
+psql -h localhost -U postgres <<< "CREATE SCHEMA public;"
+python manage.py flush --noinput
+python manage.py makemigrations api
+python manage.py makemigrations
+python manage.py migrate

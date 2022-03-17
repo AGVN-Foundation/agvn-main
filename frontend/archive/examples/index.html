@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script type="module">
+        import * as THREE from 'https://cdn.skypack.dev/three@<version>';
+
+        function main() {
+            const canvas = document.querySelector('#c');
+            const renderer = new THREE.WebGLRenderer({ canvas });
+
+            // applies for both vertical and horizontal FOV
+            const fov = 75;
+            // responsiveness -> twice as wide as height
+            const aspect = 2;  // the canvas default
+            // plane of the camera
+            const near = 0.1;
+            // perspective cut off point
+            const far = 5;
+            const camera = new THREE.PerspectiveCamera(fov, aspect, near, far);
+            // position camera at (0,0,2)
+            camera.position.z = 2;
+
+            const scene = new THREE.Scene();
+
+            const boxWidth = 1;
+            const boxHeight = 1;
+            const boxDepth = 1;
+            const geometry = new THREE.BoxGeometry(boxWidth, boxHeight, boxDepth);
+
+            const material = new THREE.MeshBasicMaterial({ color: 0x44aa88 });
+
+            const cube = new THREE.Mesh(geometry, material);
+
+            scene.add(cube);
+
+            // renderer.render(scene, camera);
+            function render(time) {
+                time *= 0.001;  // convert time to seconds
+
+                cube.rotation.x = time;
+                cube.rotation.y = time;
+
+                renderer.render(scene, camera);
+
+                requestAnimationFrame(render);
+            }
+            requestAnimationFrame(render);
+        }
+
+        main();
+
+    </script>
+</head>
+
+<body>
+    <h1>Welcome</h1>
+    <canvas id="c"></canvas>
+</body>
+
+</html>

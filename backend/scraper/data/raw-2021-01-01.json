@@ -1,0 +1,6 @@
+{
+    "sentiments": [
+        {"url": "twitter.com/lmao", "text": "Dude I really hate this X thing. X thing keeps bothering me. I cant believe the government is doing anything about X!"},
+        {"url": "smh.com/article/3", "text": "The government really should do something about X. Nov-2020. By Gerald Sun. [Bunch of metadata]. Today we learn that the government is really lazy and bad. They cant do anything about X because they are so stupid."}
+    ]
+}

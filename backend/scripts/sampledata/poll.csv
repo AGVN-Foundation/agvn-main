@@ -1,0 +1,6 @@
+id, question, user, date_time, type, subject
+0, "Do you think you are cool?", "90789f43-4986-4469-abf9-451f8c124317", "2021-07-04", 3, 2
+3, "Do you think you are cool?", "490ae769-7654-4a10-83fc-31351fadf45a", "2021-07-04", 3, 2
+5, "Do you like the current status of society?", "0fc46619-bd86-437c-89b3-f822d9519934", "2021-07-21", 3, 3
+1, "What do you think of our national security status?", "396c9a01-de18-4135-bebe-c5f875922bfd", "2021-07-14", 1, 8
+2, "On a scale of 1-10, how favorably do you think of this years budget?", "2021-07-15", 2, 1
