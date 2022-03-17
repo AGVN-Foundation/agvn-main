@@ -3,8 +3,6 @@ import Head from 'next/head';
 import Link from 'next/link';
 import PageTitle from '../../../components/PageTitle';
 import { Box, Divider, Flex } from '@chakra-ui/react';
-import { useRouter } from 'next/router';
-import Cookies from 'universal-cookie';
 import { MDBContainer, MDBRow } from 'mdbreact';
 
 export default function Edit() {

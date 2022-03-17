@@ -8,7 +8,6 @@ import policy from "../public/assets/HomeScreen_icons/Policy.png"
 import aeros from "../public/assets/aeros_logo.png"
 import { Banner } from "../components/TheHeader"
 
-
 const HOME_CARDS: Array<DownCardProps> = [
   {
     title: "Current Policies",

@@ -1,5 +1,4 @@
 import React from 'react'
-import { Canvas } from '@react-three/fiber'
 import { Flex } from '@chakra-ui/react'
 import styled from 'styled-components'
 import MeshCanvas from '../components/3D'
@@ -43,9 +42,9 @@ function LandingPagePrev() {
 
 function LandingPage() {
     return (
-        <Canvas>
+        <>
             <MeshCanvas />
-        </Canvas>
+        </>
     )
 }
 

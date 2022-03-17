@@ -177,146 +177,145 @@ function Profile() {
     desc: string;
   }
 
+  // return (
+  //   <Flex flexDir="column" alignItems="center" justifyContent="center">
+  //     <Flex my={75} h='2rem'>
+  //       <PageTitle title='Profile' />
+  //       <Spacer mr="1rem" />
+  //       <Box>
+  //         <Button
+  //           colorScheme='blackAlpha'
+  //           variant='outline'
+  //           size='sm'
+  //           onClick={toEditProfile}
+  //         >
+  //           Edit
+  //         </Button>
+  //       </Box>
+  //     </Flex>
+
+  //     <Box minW="60%" gridColumn="7/13" gridRow="3/20">
+  //       <MDBContainer>
+  //         <MDBRow>
+  //           <Feature
+  //             title="Email Address"
+  //             desc={email}
+  //           />
+  //           <Feature
+  //             title="Legal Name"
+  //             desc={name}
+  //           />
+  //         </MDBRow><br/>
+  //         <MDBRow>
+  //           <Feature
+  //             title="Sex"
+  //             desc={sex}
+  //           />
+  //           <Feature
+  //             title="Age"
+  //             desc={age}
+  //           />
+  //         </MDBRow><br/>
+  //         <MDBRow>
+  //           <Feature
+  //             title="Driver License"
+  //             desc={driverLicense}
+  //           />
+  //           <MDBCol md="6">
+  //             <Grid templateColumns="repeat(5, 1fr)" gap={6} w="100%" shadow="md" borderWidth="1px" p="6">
+  //               <Box h={50}>
+  //                 <Heading fontSize="xl">Medicare</Heading>
+  //                 <Divider style={{ color: "#d3d3d3", width: "30%" }} />
+  //                 <Text mt={4} mb="1rem">{medicare}</Text>
+  //               </Box>
+  //               <Box/>
+  //               <Box >
+  //                 <Heading fontSize="xl">IRN</Heading>
+  //                 <Divider style={{ color: "#d3d3d3", width: "30%" }} />
+  //                 <Text mt={4}>{irn}</Text>
+  //               </Box>
+  //             </Grid>
+  //           </MDBCol>
+  //         </MDBRow><br/>
+  //         <MDBRow>
+  //           <Feature
+  //             title="Number of Family Members"
+  //             desc={family}
+  //           />
+  //           <Feature
+  //             title="Education Level"
+  //             desc={education}
+  //           />
+  //         </MDBRow><br/>
+  //         <MDBRow>
+  //           <Feature
+  //             title="Home address"
+  //             desc={residence}
+  //           />
+  //           <Feature
+  //             title="Current Citizenship"
+  //             desc={country}
+  //           />
+  //         </MDBRow><br/>
+  //         <MDBRow>
+  //           <MDBCol>
+  //             <Flex w="100%" shadow="md" borderWidth="1px" p="2rem" flexDir="column">
+  //               <Heading fontSize="xl">Current Occupation:</Heading>
+  //               <Divider style={{ color: "#d3d3d3", width: "30%" }} />
+  //               <Text mt={4} mb="1rem">Occupation: {occupation}</Text>
+  //               <Checkbox colorScheme='green' isChecked={isGov} isReadOnly style={{ cursor: 'auto' }}>Government Employee</Checkbox>
+  //             </Flex>
+  //          </MDBCol>
+  //         </MDBRow><br/>
+  //       <MDBRow>
+  //         <Feature
+  //           title="Current Occupation Rank"
+  //           desc={oRank}
+  //         />
+  //         <Feature
+  //           title="Anual Income"
+  //           desc={income}
+  //         />
+  //       </MDBRow><br/>
+  //       <MDBRow>
+  //         <Feature
+  //           title="Interests"
+  //           desc={interests}
+  //         />
+  //         <Feature
+  //           title="Skills"
+  //           desc={skills}
+  //         />
+  //       </MDBRow><br/>
+  //       <MDBRow>
+  //         <MDBCol>
+  //           <Flex w="100%" shadow="md" borderWidth="1px" flexDir="column" p="2rem">
+  //             <Heading fontSize="xl">Political Interests</Heading>
+  //             <Divider style={{ color: "#d3d3d3", width: "30%" }} mb="1rem" />
+  //             <PoliticalInterests />
+  //           </Flex>
+  //         </MDBCol>
+  //       </MDBRow><br/>
+  //       <MDBRow>
+  //         <MDBCol>
+  //           <Flex w="100%" shadow="md" borderWidth="1px" flexDir="column" p="2rem" id="contrib-box">
+  //             <Heading fontSize="xl">Contribution (past 30 days)</Heading>
+  //             <Divider style={{ color: "#d3d3d3", width: "30%" }} />
+  //             <br />
+  //             <ContributeChart data={contributions} width={contribWidth}/>
+  //           </Flex>
+  //         </MDBCol>
+  //       </MDBRow>
+  //       </MDBContainer>
+  //     </Box>
+
+  //     <Popups type="error" message={errorMsg} toSignin={toSignin} />
+  //   </Flex>
+  // );
+
   return (
-    <Flex flexDir="column" alignItems="center" justifyContent="center">
-      <Flex my={75} h='2rem'>
-        <PageTitle title='Profile' />
-        <Spacer mr="1rem" />
-        <Box>
-          <Button
-            colorScheme='blackAlpha'
-            variant='outline'
-            size='sm'
-            onClick={toEditProfile}
-          >
-            Edit
-          </Button>
-        </Box>
-      </Flex>
-
-      {/* <VStack
-        // divider={<StackDivider borderColor="#4E5374"/>}
-        spacing={4}
-      > */}
-      <Box minW="60%" gridColumn="7/13" gridRow="3/20">
-        <MDBContainer>
-          <MDBRow>
-            <Feature
-              title="Email Address"
-              desc={email}
-            />
-            <Feature
-              title="Legal Name"
-              desc={name}
-            />
-          </MDBRow><br/>
-          <MDBRow>
-            <Feature
-              title="Sex"
-              desc={sex}
-            />
-            <Feature
-              title="Age"
-              desc={age}
-            />
-          </MDBRow><br/>
-          <MDBRow>
-            <Feature
-              title="Driver License"
-              desc={driverLicense}
-            />
-            <MDBCol md="6">
-              <Grid templateColumns="repeat(5, 1fr)" gap={6} w="100%" shadow="md" borderWidth="1px" p="6">
-                <Box h={50}>
-                  <Heading fontSize="xl">Medicare</Heading>
-                  <Divider style={{ color: "#d3d3d3", width: "30%" }} />
-                  <Text mt={4} mb="1rem">{medicare}</Text>
-                </Box>
-                <Box/>
-                <Box >
-                  <Heading fontSize="xl">IRN</Heading>
-                  <Divider style={{ color: "#d3d3d3", width: "30%" }} />
-                  <Text mt={4}>{irn}</Text>
-                </Box>
-              </Grid>
-            </MDBCol>
-          </MDBRow><br/>
-          <MDBRow>
-            <Feature
-              title="Number of Family Members"
-              desc={family}
-            />
-            <Feature
-              title="Education Level"
-              desc={education}
-            />
-          </MDBRow><br/>
-          <MDBRow>
-            <Feature
-              title="Home address"
-              desc={residence}
-            />
-            <Feature
-              title="Current Citizenship"
-              desc={country}
-            />
-          </MDBRow><br/>
-          <MDBRow>
-            <MDBCol>
-              <Flex w="100%" shadow="md" borderWidth="1px" p="2rem" flexDir="column">
-                <Heading fontSize="xl">Current Occupation:</Heading>
-                <Divider style={{ color: "#d3d3d3", width: "30%" }} />
-                <Text mt={4} mb="1rem">Occupation: {occupation}</Text>
-                <Checkbox colorScheme='green' isChecked={isGov} isReadOnly style={{ cursor: 'auto' }}>Government Employee</Checkbox>
-              </Flex>
-           </MDBCol>
-          </MDBRow><br/>
-        <MDBRow>
-          <Feature
-            title="Current Occupation Rank"
-            desc={oRank}
-          />
-          <Feature
-            title="Anual Income"
-            desc={income}
-          />
-        </MDBRow><br/>
-        <MDBRow>
-          <Feature
-            title="Interests"
-            desc={interests}
-          />
-          <Feature
-            title="Skills"
-            desc={skills}
-          />
-        </MDBRow><br/>
-        <MDBRow>
-          <MDBCol>
-            <Flex w="100%" shadow="md" borderWidth="1px" flexDir="column" p="2rem">
-              <Heading fontSize="xl">Political Interests</Heading>
-              <Divider style={{ color: "#d3d3d3", width: "30%" }} mb="1rem" />
-              <PoliticalInterests />
-            </Flex>
-          </MDBCol>
-        </MDBRow><br/>
-        <MDBRow>
-          <MDBCol>
-            <Flex w="100%" shadow="md" borderWidth="1px" flexDir="column" p="2rem" id="contrib-box">
-              <Heading fontSize="xl">Contribution (past 30 days)</Heading>
-              <Divider style={{ color: "#d3d3d3", width: "30%" }} />
-              <br />
-              <ContributeChart data={contributions} width={contribWidth}/>
-            </Flex>
-          </MDBCol>
-        </MDBRow>
-        </MDBContainer>
-      </Box>
-      {/* </VStack> */}
-
-      <Popups type="error" message={errorMsg} toSignin={toSignin} />
-    </Flex>
-  );
+    <></>
+  )
 }
 
 export default Profile;
