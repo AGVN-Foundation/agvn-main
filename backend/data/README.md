@@ -4,7 +4,7 @@
 When we need to reset the database due to e.g., change in model structure,
 we'll have to update the scripts.
 
-All you need is pandas. `pip install pandas`.
+All you need is pandas for the main `py_generator`. `pip install pandas`.
 
 ### Generate Scripts Order
 
@@ -15,8 +15,3 @@ To manually generate data, run the scripts in the following order:
 - `gen_vote.py`
 - `gen_contribution_benefits.py`
 - `gen_users.py`
-
-## Extension
-
-- Fix scripts to insert to database (currently not working)
-- Generate language data with GPT-2, and give to chatbot as prompts
