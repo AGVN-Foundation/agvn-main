@@ -1,5 +1,0 @@
-#!/bin/bash
-# Usage: db-control [start | down | status]
-# NOTE: to change password of postgres, use ALTER USER postgres PASSWORD 'password';
-
-sudo service postgresql $1

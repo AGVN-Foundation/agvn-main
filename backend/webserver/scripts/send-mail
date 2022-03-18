@@ -1,6 +1,0 @@
-#!/bin/bash
-# arg 1 - message title
-# arg 2 - message body
-# arg 3 - email address receiver
-
-echo $2 | mail -s $1 -r "noreply@agvn.info" $3

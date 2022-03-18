@@ -1,4 +1,0 @@
-#!/bin/bash
-# OPTIONAL arg 1 -> address and port, e.g. localhost:8000
-
-python manage.py runserver $1

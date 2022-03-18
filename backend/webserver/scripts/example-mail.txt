@@ -1,6 +1,0 @@
-To: jasen.qin33@gmail.com
-From: poll@agvn.info
-Subject: [POLL] Complete an AGVN poll!
-H E L L O
-To send an email, use the the command
-sendmail -t < mail.txt
