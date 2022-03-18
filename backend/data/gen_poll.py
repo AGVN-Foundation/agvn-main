@@ -1,7 +1,7 @@
 import random
 import pandas as pd
 from datetime import datetime
-from _aux import gen_strings, DEBUG_OUT
+from hypergen import gen_strings, DEBUG_OUT
 from functools import reduce
 
 

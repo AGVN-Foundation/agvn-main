@@ -2,7 +2,7 @@ import random
 import pandas as pd
 import string
 from functools import reduce
-from _aux import gen_strings
+from hypergen import gen_strings
 
 
 def gen_departments(n):

@@ -10,7 +10,7 @@ import random
 import pandas as pd
 import string
 from functools import reduce
-from _aux import gen_strings, DEBUG_OUT
+from hypergen import gen_strings, DEBUG_OUT
 from hash import hash_password
 from numpy.random import exponential
 import numpy as np
