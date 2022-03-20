@@ -12,3 +12,8 @@ async fn main() -> std::io::Result<()> {
         .run()
         .await
 }
+
+struct Query {}
+
+// query the core model
+fn query_model() {}
