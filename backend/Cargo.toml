@@ -9,3 +9,6 @@ version = "0.1.0"
 actix-web = "4"
 diesel = {version = "1.4.4", features = ["postgres"]}
 dotenv = "0.15.0"
+
+# TODO: add system-core dep
+# from github
