@@ -6,6 +6,11 @@
 
 This dir contains the core backend service - data logic.
 
+- should prob be run on clusters
+- or a bunch of large servers that can replicate and compute efficiently
+- idk how to do that the 2nd way
+- the ml part is a dep that is bundled into a final crate with prob a single main binary target and a non vital library
+
 ## Containers and Hosting
 
 **TODO** -> build the entire backend as a single docker container image. On each release/patch, rebuild the image. Then can upload to docker hub. And host it on kubernetes/azure containers.
