@@ -1,7 +1,7 @@
 table! {
     posts (id) {
-        id -> Integer,
-        title -> Text,
+        id -> Int4,
+        title -> Varchar,
         body -> Text,
         published -> Bool,
     }
