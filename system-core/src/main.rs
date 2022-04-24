@@ -1,48 +1,26 @@
-use linfa::prelude::*;
-use linfa_svm::{error::Result, Svm};
+fn main() {}
 
-fn main() -> Result<()> {
-    // BOILERPLATE LINFA
+// ------------
+// TRANSFORMER
+// ------------
 
-    // classification hueristic: quality > 6.5 is good wine
-    let (train, valid) = linfa_datasets::winequality()
-        .map_targets(|x| *x > 6)
-        .split_with_ratio(0.9);
+struct Transformer;
 
-    println!(
-        "Fit SVM classifier with #{} training points",
-        train.nsamples()
-    );
+// ------------
+// ENCODER
+// ------------
 
-    // fit an SVM with C value 7 and 0.6 for positive and negative classes
-    let model = Svm::<_, bool>::params()
-        .pos_neg_weights(50000., 5000.)
-        .gaussian_kernel(80.0)
-        .fit(&train)?;
+// input goes through multiple encoder units
+// sequentially. The last one then feeds n decoders in parallel
+struct Encoder;
 
-    println!("{}", model);
-    // A positive prediction indicates a good wine, a negative, a bad one
-    fn tag_classes(x: &bool) -> String {
-        if *x {
-            "good".into()
-        } else {
-            "bad".into()
-        }
-    }
+// takes in streams of tokens
+struct SelfAttentionUnit {}
 
-    // map targets for validation dataset
-    let valid = valid.map_targets(tag_classes);
+struct FeedForwardUnit {}
 
-    // predict and map targets
-    let pred = model.predict(&valid).map(tag_classes);
+// ------------
+// DECODER
+// ------------
 
-    // create a confusion matrix
-    let cm = pred.confusion_matrix(&valid)?;
-
-    println!("{:?}", cm);
-
-    // accuracy of predictions + matthew correlation coeff (phi)
-    println!("accuracy {}, MCC {}", cm.accuracy(), cm.mcc());
-
-    Ok(())
-}
+struct Decoder;
