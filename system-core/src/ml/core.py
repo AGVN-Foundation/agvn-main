@@ -1,14 +1,26 @@
 # sklearn core
-from sklearn.gaussian_process.kernels import ConstantKernel, RBF
 
-kernel = ConstantKernel(constant_value=1.0, constant_value_bounds=(0.0, 10.0)) * RBF(length_scale=0.5,length_scale_bounds=(0.0, 10.0)) + RBF(length_scale=2.0, length_scale_bounds=(0.0, 10.0))
+# https://en.wikipedia.org/wiki/Semi-supervised_learning
+# import datasets/abcnews-date-text.csv
+# read it
+# split it into train and test for self labeling
+# train it
+# test it
 
-for hyperparameter in kernel.hyperparameters:
-    print(hyperparameter)
+import pandas as pd
+import numpy as np
+# import train_test_split
+from sklearn.model_selection import train_test_split
 
-params = kernel.get_params()
-for key in sorted(params):
-    print("%s : %s" % (key, params[key]))
+data = pd.read_csv('datasets/abcnews-date-text.csv', verbose=True)
 
-print(kernel.theta)  # Note: log-transformed
-print(kernel.bounds)  # Note: log-transformed
+# 80-20 split
+X_train, X_test, y_train, y_test = train_test_split(data['publish_date'], data['headline_text'], test_size=0.2, random_state=42)
+
+# print data
+print("X_train:", X_train)
+print("X_test:", X_test)
+print("y_train:", y_train)
+print("y_train:", y_test)
+
+# select NLP model

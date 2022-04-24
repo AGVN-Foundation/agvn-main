@@ -3,6 +3,10 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
 
+# with conda, make sure to run
+# pipenv install --python=/path/to/anaconda/python
+# then pipenv shell
+
 [packages]
 scikit-learn = '~=1.0.2'
 
