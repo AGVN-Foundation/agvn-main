@@ -1,4 +1,4 @@
-use dioxus::prelude::*;
+use dioxus::prelude::{dioxus_elements::div, *};
 
 fn app(cx: Scope) -> Element {
     let mut count = use_state(&cx, || 0);
@@ -7,6 +7,7 @@ fn app(cx: Scope) -> Element {
         h1 { "High-Five counter: {count}" }
         button { onclick: move |_| count += 1, "Up high!" }
         button { onclick: move |_| count -= 1, "Down low!" }
+        div {"Hi"}
     })
 }
 
