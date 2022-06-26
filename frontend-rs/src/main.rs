@@ -1,4 +1,5 @@
 use dioxus::prelude::{dioxus_elements::div, *};
+use frontend_rs::chakra::*;
 
 pub fn app(cx: Scope) -> Element {
     let mut count = use_state(&cx, || 0);
@@ -16,14 +17,13 @@ pub fn app(cx: Scope) -> Element {
     "#;
 
     cx.render(rsx! {
-        h1 { "High-Five counter: {count}" }
-        button { onclick: move |_| count += 1, "Up high!" }
-        button { onclick: move |_| count -= 1, "Down low!" }
-        div {"Hi"}
+        button { onclick: move |_| count += 1, "Click me to increment!" }
+        div {"Hello AG!"}
         div {
             style: "{container_style}",
-            "Hi",
-            frontend_rs::chakra::example {}
+            Flex {
+                flex: FlexDir::Row
+            }
         }
     })
 }
