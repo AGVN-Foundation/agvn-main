@@ -3,15 +3,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<link rel="preload" href="/index-85d0362811ac86eb_bg.wasm" as="fetch" type="application/wasm" crossorigin="">
-<link rel="modulepreload" href="/index-85d0362811ac86eb.js"></head>
+<link rel="preload" href="/frontend-rs-be4e3640a64ad0a0_bg.wasm" as="fetch" type="application/wasm" crossorigin="">
+<link rel="modulepreload" href="/frontend-rs-be4e3640a64ad0a0.js"></head>
 
 <body>
     <div id="main"> </div>
 
 
-<script type="module">import init from '/index-85d0362811ac86eb.js';init('/index-85d0362811ac86eb_bg.wasm');</script><script>(function () {
-    var url = 'ws://' + window.location.host + '/_trunk/ws';
+<script type="module">import init from '/frontend-rs-be4e3640a64ad0a0.js';init('/frontend-rs-be4e3640a64ad0a0_bg.wasm');</script><script>(function () {
+    var protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
+    var url = protocol + '//' + window.location.host + '/_trunk/ws';
     var poll_interval = 5000;
     var reload_upon_connect = () => {
         window.setTimeout(

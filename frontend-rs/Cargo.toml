@@ -3,6 +3,9 @@ name = "frontend-rs"
 version = "0.1.0"
 edition = "2021"
 
+[[example]]
+name = "budget"
+
 [dependencies]
 dioxus = { version = "0.2.3", features = ["web"] }
 wasm-bindgen = "0.2.80"
