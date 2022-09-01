@@ -7,3 +7,4 @@ license-file = "LICENSE"
 description = "An automated ML system"
 
 [dependencies]
+polars = "0.23.2"
