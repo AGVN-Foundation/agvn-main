@@ -1,0 +1,9 @@
+[package]
+name = "hyperml"
+version = "0.1.0"
+edition = "2021"
+authors = ["Jason Qin"]
+license-file = "LICENSE"
+description = "An automated ML system"
+
+[dependencies]
