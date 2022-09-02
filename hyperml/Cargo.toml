@@ -9,3 +9,6 @@ description = "An automated ML system"
 [dependencies]
 polars = "0.23.2"
 polars-io = "0.23.2"
+log = "*"
+simple_logger = "2.3.0"
+clap = "3.2"
